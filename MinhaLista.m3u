@@ -103,3 +103,92 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSig
 https://d1cy34jllwtrns.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="http://iv.pe/3uB" group-title="Canais | Variedades",Mais	
 https://d1cy34jllwtrns.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX	
+https://d1cy34jllwtrns.cloudfront.net/hls1/max.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX Up	
+https://d1cy34jllwtrns.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX Prime	
+https://d1cy34jllwtrns.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix	
+https://d1cy34jllwtrns.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/76R" group-title="Canais | Variedades",MTV 	
+https://d1cy34jllwtrns.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/zuf" group-title="Canais | Variedades",MTV Live	
+https://d1cy34jllwtrns.cloudfront.net/hls1/mtvlive.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/jtx" group-title="Canais | Variedades",Multishow	
+https://d1cy34jllwtrns.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",NatGeo	
+https://d1cy34jllwtrns.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Seh" group-title="Canais | Infantis",NatGeo Kids	
+https://d1cy34jllwtrns.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",NatGeo Wild	
+https://d1cy34jllwtrns.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/NRu" group-title="Canais | Infantis",Nickelodeon	
+https://d1cy34jllwtrns.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/hrs" group-title="Canais | Infantis",Nick Jr	
+https://d1cy34jllwtrns.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/KNa" group-title="Canais | Variedades",OFF	
+https://d1cy34jllwtrns.cloudfront.net/hls1/off.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/FqD" group-title="Canais | Filmes e Séries",Paramount Channel	
+https://d1cy34jllwtrns.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 1	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 4	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 5	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 6	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 7	
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/iRz" group-title="Canais | Notícias",Record News	
+https://d1cy34jllwtrns.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony	
+https://d1cy34jllwtrns.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="Canais | Filmes e Séries",Space	
+https://d1cy34jllwtrns.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="Canais | SporTV",SporTV	
+https://d1cy34jllwtrns.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/8xl" group-title="Canais | SporTV",SporTV 2	
+https://d1cy34jllwtrns.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Lsk" group-title="Canais | SporTV",SporTV 3 	
+https://d1cy34jllwtrns.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Tn0" group-title="Canais | Filmes e Séries",Studio Universal	
+https://d1cy34jllwtrns.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/4mR" group-title="Canais | Filmes e Séries",SyFy	
+https://d1cy34jllwtrns.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="Canais | Filmes e Séries",TCM	
+https://d1cy34jllwtrns.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/E3y" group-title="Canais | Telecine",Telecine Action	
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="Canais | Telecine",Telecine Cult 	
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/NUS" group-title="Canais | Telecine",Telecine Pipoca	
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/ewn" group-title="Canais | Telecine",Telecine Premium	
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/sUe" group-title="Canais | Telecine",Telecine Touch	
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/WiL" group-title="Canais | Telecine",Telecine Fun	
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/RAK" group-title="Canais | Variedades",TLC	
+https://d1cy34jllwtrns.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/dlK" group-title="Canais | Filmes e Séries",TNT	
+https://d1cy34jllwtrns.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/T8d" group-title="Canais | Filmes e Séries",TNT Series	
+https://d1cy34jllwtrns.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/F7Y" group-title="Canais | Infantis",Tooncast	
+https://d1cy34jllwtrns.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/tNl" group-title="Canais | Filmes e Séries",Universal Channel	
+https://d1cy34jllwtrns.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/g8Y" group-title="Canais | Variedades",Viva	
+https://d1cy34jllwtrns.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Canais | Filmes e Séries",Warner Channel	
+https://d1cy34jllwtrns.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/X8t" group-title="Canais | Infantis",ZooMoo	
+https://d1cy34jllwtrns.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=
+
