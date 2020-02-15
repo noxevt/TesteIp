@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E	
+https://d1cy34jllwtrns.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC	
+https://d1cy34jllwtrns.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title="Canais | Documentários",Animal Planet	
+https://d1cy34jllwtrns.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1	
+https://d1cy34jllwtrns.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN	
+https://d1cy34jllwtrns.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/WYh" group-title="Canais | Notícias",BandNews HD	
+https://d1cy34jllwtrns.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/8hZ" group-title="Canais | Esportes",BandSports	
+https://d1cy34jllwtrns.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="Canais | BBB",BBB	
+https://d1cy34jllwtrns.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/IKy" group-title="Canais | Variedades",Bis	
+https://d1cy34jllwtrns.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Canais | Infantis",Boomerang	
+https://d1cy34jllwtrns.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Canais | Infantis",Cartoon Network	
+https://d1cy34jllwtrns.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/pUK" group-title="Canais | Filmes e Séries",Cinemax HD	
+https://d1cy34jllwtrns.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Canais | Esportes",Combate	
+https://d1cy34jllwtrns.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central	
+https://d1cy34jllwtrns.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Brb" group-title="Canais | Documentários",Curta	
+https://d1cy34jllwtrns.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/gSH" group-title="Canais | Documentários",Discovery Channel	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",Discovery Civilization	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Canais | Infantis",Discovery Kids	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title="Canais | Documentários",Discovery Theater	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoverytheater.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="Canais | Variedades",Discovery Turbo	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Canais | Infantis",Disney Channel	
+https://d1cy34jllwtrns.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Canais | Infantis",Disney Jr	
+https://d1cy34jllwtrns.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="Canais | Infantis",Disney XD	
+https://d1cy34jllwtrns.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Canais | Variedades",E!	
+https://d1cy34jllwtrns.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="Canais | Esportes",ESPN Extra	
+https://d1cy34jllwtrns.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="Canais | Esportes",ESPN Brasil	
+https://d1cy34jllwtrns.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="Canais | Esportes",ESPN Extra	
+https://d1cy34jllwtrns.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="Canais | Esportes",ESPN 2 	
+https://d1cy34jllwtrns.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title="Canais | Variedades",Food Network	
+https://d1cy34jllwtrns.cloudfront.net/hls1/foodnetwork.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/x4P" group-title="Canais | Filmes e Séries",FOX 	
+https://d1cy34jllwtrns.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/SdR" group-title="Canais | Filmes e Séries",FOX Premium 1	
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/8PZ" group-title="Canais | Filmes e Séries",FOX Premium 2 	
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOX Sports 1	
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOX Sports 2	
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOXLife	
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title="Canais | Filmes e Séries",FX	
+https://d1cy34jllwtrns.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/hng" group-title="Canais | Notícias",Globo News	
+https://d1cy34jllwtrns.cloudfront.net/hls1/globonews.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/aaq" group-title="Canais | Infantis",Gloob	
+https://d1cy34jllwtrns.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/NoG" group-title="Canais | Variedades",GNT	
+https://d1cy34jllwtrns.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",H2	
+https://d1cy34jllwtrns.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2	
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family	
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus	
+https://d1cy34jllwtrns.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature	
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO	
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel	
+https://d1cy34jllwtrns.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/SGu" group-title="Canais | Variedades",Discovery H&H	
+https://d1cy34jllwtrns.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Gon" group-title="Canais | Variedades",Investigation Discovery	
+https://d1cy34jllwtrns.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/Ge2" group-title="Canais | Variedades",Lifetime	
+https://d1cy34jllwtrns.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-logo="http://iv.pe/3uB" group-title="Canais | Variedades",Mais	
+https://d1cy34jllwtrns.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=
