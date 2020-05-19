@@ -1,907 +1,633 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://a.srvbr.me:8880/f10050/f10050/898
 #EXTINF:-1,A&E HD
-http://a.srvbr.me:8880/f10050/f10050/4203
-#EXTINF:-1,A&E [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4167
-#EXTINF:-1,AMC
-http://a.srvbr.me:8880/f10050/f10050/5077
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/2
+#EXTINF:-1,A&E SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1
 #EXTINF:-1,AMC HD
-http://a.srvbr.me:8880/f10050/f10050/5076
-#EXTINF:-1,AMC [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4644
-#EXTINF:-1,AXN
-http://a.srvbr.me:8880/f10050/f10050/893
-#EXTINF:-1,AXN HD
-http://a.srvbr.me:8880/f10050/f10050/892
-#EXTINF:-1,AXN HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4165
-#EXTINF:-1,Animal Planet
-http://a.srvbr.me:8880/f10050/f10050/897
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/5
+#EXTINF:-1,AMC SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/4
 #EXTINF:-1,Animal Planet HD
-http://a.srvbr.me:8880/f10050/f10050/896
-#EXTINF:-1,Animal Planet Full HD
-http://a.srvbr.me:8880/f10050/f10050/5436
-#EXTINF:-1,Animal Planet [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4166
-#EXTINF:-1,Arte 1
-http://a.srvbr.me:8880/f10050/f10050/894
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/9
+#EXTINF:-1,Animal Planet SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/8
 #EXTINF:-1,Arte 1 HD
-http://a.srvbr.me:8880/f10050/f10050/5329
-#EXTINF:-1,Baby TV
-http://a.srvbr.me:8880/f10050/f10050/5078
-#EXTINF:-1,BIS
-http://a.srvbr.me:8880/f10050/f10050/886
-#EXTINF:-1,BIS HD
-http://a.srvbr.me:8880/f10050/f10050/885
-#EXTINF:-1,BIS Full HD
-http://a.srvbr.me:8880/f10050/f10050/5447
-#EXTINF:-1,BIS HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4162
-#EXTINF:-1,Band
-http://a.srvbr.me:8880/f10050/f10050/887
-#EXTINF:-1,Band HD
-http://a.srvbr.me:8880/f10050/f10050/891
-#EXTINF:-1,Band Full HD
-http://a.srvbr.me:8880/f10050/f10050/5475
-#EXTINF:-1,Band HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4164
-#EXTINF:-1,Band News
-http://a.srvbr.me:8880/f10050/f10050/890
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/11
+#EXTINF:-1,Arte 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/10
+#EXTINF:-1,AXN HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13
+#EXTINF:-1,AXN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/12
+#EXTINF:-1,BabyTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/18
+#EXTINF:-1,BabyTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/17
+#EXTINF:-1,Band Campinas SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/20
 #EXTINF:-1,Band News HD
-http://a.srvbr.me:8880/f10050/f10050/5162
-#EXTINF:-1,Band News Full HD
-http://a.srvbr.me:8880/f10050/f10050/5435
-#EXTINF:-1,Band News [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4163
-#EXTINF:-1,Band Sports
-http://a.srvbr.me:8880/f10050/f10050/889
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/26
+#EXTINF:-1,Band News SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/25
+#EXTINF:-1,Band Nordeste SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/22
+#EXTINF:-1,Band SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/21
+#EXTINF:-1,Band SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/24
 #EXTINF:-1,Band Sports HD
-http://a.srvbr.me:8880/f10050/f10050/888
-#EXTINF:-1,Band Sports [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1831
-#EXTINF:-1,Canal Brasil
-http://a.srvbr.me:8880/f10050/f10050/883
-#EXTINF:-1,Rede Boa Vontade
-http://a.srvbr.me:8880/f10050/f10050/5328
-#EXTINF:-1,Boomerang
-http://a.srvbr.me:8880/f10050/f10050/884
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28
+#EXTINF:-1,Band Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27
+#EXTINF:-1,Bis HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/16
+#EXTINF:-1,Bis SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/15
 #EXTINF:-1,Boomerang HD
-http://a.srvbr.me:8880/f10050/f10050/5327
-#EXTINF:-1,Boomerang Full HD
-http://a.srvbr.me:8880/f10050/f10050/5434
-#EXTINF:-1,Canção Nova
-http://a.srvbr.me:8880/f10050/f10050/879
-#EXTINF:-1,Cartoon Network
-http://a.srvbr.me:8880/f10050/f10050/878
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/30
+#EXTINF:-1,Boomerang SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/29
+#EXTINF:-1,Canal Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/32
+#EXTINF:-1,Canal do Boi SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038287
+#EXTINF:-1,Canal Rural SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038286
+#EXTINF:-1,Canção Nova HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036447
 #EXTINF:-1,Cartoon Network HD
-http://a.srvbr.me:8880/f10050/f10050/877
-#EXTINF:-1,Cartoon Network [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4159
-#EXTINF:-1,Cinemax
-http://a.srvbr.me:8880/f10050/f10050/876
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/38
+#EXTINF:-1,Cartoon Network SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/37
+#EXTINF:-1,Chef TV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032891
 #EXTINF:-1,Cinemax HD
-http://a.srvbr.me:8880/f10050/f10050/1495
-#EXTINF:-1,Cinemax HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/5124
-#EXTINF:-1,Comedy Central
-http://a.srvbr.me:8880/f10050/f10050/873
-#EXTINF:-1,Comedy Central HD
-http://a.srvbr.me:8880/f10050/f10050/5326
-#EXTINF:-1,Comedy Central HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1833
-#EXTINF:-1,Combate
-http://a.srvbr.me:8880/f10050/f10050/875
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/44
+#EXTINF:-1,Cinemax SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/43
+#EXTINF:-1,CNN Brasil HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036267
+#EXTINF:-1,CNN Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036266
 #EXTINF:-1,Combate HD
-http://a.srvbr.me:8880/f10050/f10050/874
-#EXTINF:-1,Combate Full HD
-http://a.srvbr.me:8880/f10050/f10050/5474
-#EXTINF:-1,Combate HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1832
-#EXTINF:-1,COPA LIBERTADORES HD
-http://a.srvbr.me:8880/f10050/f10050/11444
-#EXTINF:-1,DAZN HD
-http://a.srvbr.me:8880/f10050/f10050/11443
-#EXTINF:-1,Curta!
-http://a.srvbr.me:8880/f10050/f10050/872
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/49
+#EXTINF:-1,Combate SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/48
+#EXTINF:-1,Comedy Central HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/52
+#EXTINF:-1,Comedy Central SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/51
+#EXTINF:-1,Copa Catarinense 1 *
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036426
+#EXTINF:-1,Copa Catarinense 2 *
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036427
+#EXTINF:-1,Copa Libertadores
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032898
+#EXTINF:-1,Copa Nordeste 1 *
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032897
+#EXTINF:-1,Cultura SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/316
 #EXTINF:-1,Curta! HD
-http://a.srvbr.me:8880/f10050/f10050/5325
-#EXTINF:-1,Discovery Home & Health
-http://a.srvbr.me:8880/f10050/f10050/868
-#EXTINF:-1,Discovery Home & Health HD
-http://a.srvbr.me:8880/f10050/f10050/867
-#EXTINF:-1,Discovery Home & Health Full HD
-http://a.srvbr.me:8880/f10050/f10050/5433
-#EXTINF:-1,Discovery Home & Health [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4156
-#EXTINF:-1,Discovery Civilization
-http://a.srvbr.me:8880/f10050/f10050/869
-#EXTINF:-1,Discovery Civilization HD
-http://a.srvbr.me:8880/f10050/f10050/5324
-#EXTINF:-1,Discovery Civilization [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4157
-#EXTINF:-1,Discovery Channel
-http://a.srvbr.me:8880/f10050/f10050/871
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/55
+#EXTINF:-1,Curta! SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/54
+#EXTINF:-1,DAZN 1
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032873
+#EXTINF:-1,DAZN 2
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032889
 #EXTINF:-1,Discovery Channel HD
-http://a.srvbr.me:8880/f10050/f10050/870
-#EXTINF:-1,Discovery Channel Full HD
-http://a.srvbr.me:8880/f10050/f10050/5448
-#EXTINF:-1,Discovery Channel HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1834
-#EXTINF:-1,Discovery Kids
-http://a.srvbr.me:8880/f10050/f10050/866
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/57
+#EXTINF:-1,Discovery Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/56
+#EXTINF:-1,Discovery H&H HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/61
+#EXTINF:-1,Discovery H&H SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/60
 #EXTINF:-1,Discovery Kids HD
-http://a.srvbr.me:8880/f10050/f10050/1494
-#EXTINF:-1,Discovery kids Full HD
-http://a.srvbr.me:8880/f10050/f10050/5432
-#EXTINF:-1,Discovery Kids HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1835
-#EXTINF:-1,Discovery Science
-http://a.srvbr.me:8880/f10050/f10050/865
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/63
+#EXTINF:-1,Discovery Kids SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/62
 #EXTINF:-1,Discovery Science HD
-http://a.srvbr.me:8880/f10050/f10050/5075
-#EXTINF:-1,Discovery Science [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4154
-#EXTINF:-1,Discovery Theater
-http://a.srvbr.me:8880/f10050/f10050/5323
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/65
+#EXTINF:-1,Discovery Science SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/64
 #EXTINF:-1,Discovery Theater HD
-http://a.srvbr.me:8880/f10050/f10050/864
-#EXTINF:-1,Discovery Theater HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4153
-#EXTINF:-1,Discovery World
-http://a.srvbr.me:8880/f10050/f10050/5322
-#EXTINF:-1,Discovery World HD
-http://a.srvbr.me:8880/f10050/f10050/861
-#EXTINF:-1,Discovery World Full HD
-http://a.srvbr.me:8880/f10050/f10050/5430
-#EXTINF:-1,Discovery World [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4151
-#EXTINF:-1,Disney Channel
-http://a.srvbr.me:8880/f10050/f10050/860
-#EXTINF:-1,Disney Channel HD
-http://a.srvbr.me:8880/f10050/f10050/1493
-#EXTINF:-1,Disney Channel Full HD
-http://a.srvbr.me:8880/f10050/f10050/5446
-#EXTINF:-1,Disney Channel HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4150
-#EXTINF:-1,Disney Junior
-http://a.srvbr.me:8880/f10050/f10050/859
-#EXTINF:-1,Disney Junior HD
-http://a.srvbr.me:8880/f10050/f10050/5562
-#EXTINF:-1,Disney XD
-http://a.srvbr.me:8880/f10050/f10050/858
-#EXTINF:-1,Disney XD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4149
-#EXTINF:-1,Discovery Turbo
-http://a.srvbr.me:8880/f10050/f10050/863
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/67
+#EXTINF:-1,Discovery Theater SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/66
+#EXTINF:-1,Discovery TLC HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/290
+#EXTINF:-1,Discovery TLC SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/289
 #EXTINF:-1,Discovery Turbo HD
-http://a.srvbr.me:8880/f10050/f10050/862
-#EXTINF:-1,Discovery Turbo Full HD
-http://a.srvbr.me:8880/f10050/f10050/5431
-#EXTINF:-1,Discovery Turbo HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4152
-#EXTINF:-1,E!
-http://a.srvbr.me:8880/f10050/f10050/857
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/69
+#EXTINF:-1,Discovery Turbo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/68
+#EXTINF:-1,Discovery World HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/71
+#EXTINF:-1,Discovery World SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/70
+#EXTINF:-1,Disney Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/73
+#EXTINF:-1,Disney Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/72
+#EXTINF:-1,Disney Junior HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/75
+#EXTINF:-1,Disney Junior SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/74
+#EXTINF:-1,Disney XD HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/78
+#EXTINF:-1,Disney XD SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/77
 #EXTINF:-1,E! HD
-http://a.srvbr.me:8880/f10050/f10050/4204
-#EXTINF:-1,EI PLUS SD
-http://a.srvbr.me:8880/f10050/f10050/11483
-#EXTINF:-1,EI PLUS HD
-http://a.srvbr.me:8880/f10050/f10050/11484
-#EXTINF:-1,ESPN
-http://a.srvbr.me:8880/f10050/f10050/4643
-#EXTINF:-1,ESPN HD
-http://a.srvbr.me:8880/f10050/f10050/848
-#EXTINF:-1,ESPN Full HD
-http://a.srvbr.me:8880/f10050/f10050/5458
-#EXTINF:-1,ESPN HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1839
-#EXTINF:-1,ESPN +  HD
-http://a.srvbr.me:8880/f10050/f10050/851
-#EXTINF:-1,ESPN EXTRA HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1837
-#EXTINF:-1,ESPN Brasil
-http://a.srvbr.me:8880/f10050/f10050/850
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/80
+#EXTINF:-1,E! SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/79
+#EXTINF:-1,Ei Plus 1*
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715087
+#EXTINF:-1,Ei Plus 2*
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032899
+#EXTINF:-1,ESPN 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/91
+#EXTINF:-1,ESPN 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/90
 #EXTINF:-1,ESPN Brasil HD
-http://a.srvbr.me:8880/f10050/f10050/849
-#EXTINF:-1,ESPN Brasil Full HD
-http://a.srvbr.me:8880/f10050/f10050/5459
-#EXTINF:-1,ESPN Brasil HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1838
-#EXTINF:-1,Espn Extra
-http://a.srvbr.me:8880/f10050/f10050/5321
-#EXTINF:-1,Espn Extra HD
-http://a.srvbr.me:8880/f10050/f10050/5320
-#EXTINF:-1,ESPN Extra Full HD
-http://a.srvbr.me:8880/f10050/f10050/5457
-#EXTINF:-1,Fish TV
-http://a.srvbr.me:8880/f10050/f10050/846
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/88
+#EXTINF:-1,ESPN Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/87
+#EXTINF:-1,ESPN Extra HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755664
+#EXTINF:-1,ESPN Extra SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755663
+#EXTINF:-1,ESPN HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/86
+#EXTINF:-1,ESPN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/85
+#EXTINF:-1,Film & Arts SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038290
 #EXTINF:-1,Fish TV HD
-http://a.srvbr.me:8880/f10050/f10050/5319
-#EXTINF:-1,Food Network
-http://a.srvbr.me:8880/f10050/f10050/845
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/102
+#EXTINF:-1,Fish TV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/101
 #EXTINF:-1,Food Network HD
-http://a.srvbr.me:8880/f10050/f10050/1491
-#EXTINF:-1,Food Network [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4145
-#EXTINF:-1,FOX
-http://a.srvbr.me:8880/f10050/f10050/844
-#EXTINF:-1,FOX HD
-http://a.srvbr.me:8880/f10050/f10050/841
-#EXTINF:-1,Fox Full HD
-http://a.srvbr.me:8880/f10050/f10050/5473
-#EXTINF:-1,FOX [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1842
-#EXTINF:-1,Fox Premium
-http://a.srvbr.me:8880/f10050/f10050/5318
-#EXTINF:-1,FOX Premium HD
-http://a.srvbr.me:8880/f10050/f10050/843
-#EXTINF:-1,FOX Premium HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4144
-#EXTINF:-1,Fox Premium 2
-http://a.srvbr.me:8880/f10050/f10050/5317
-#EXTINF:-1,FOX Premium 2 HD
-http://a.srvbr.me:8880/f10050/f10050/842
-#EXTINF:-1,Fox Premium 2 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5429
-#EXTINF:-1,FOX Premium 2 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4143
-#EXTINF:-1,Fox Life
-http://a.srvbr.me:8880/f10050/f10050/840
-#EXTINF:-1,FOX Life HD
-http://a.srvbr.me:8880/f10050/f10050/839
-#EXTINF:-1,Fox Sports
-http://a.srvbr.me:8880/f10050/f10050/837
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/104
+#EXTINF:-1,Food Network SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/103
+#EXTINF:-1,Fox HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/107
+#EXTINF:-1,Fox Life HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/109
+#EXTINF:-1,Fox Life SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/108
+#EXTINF:-1,Fox Premium 1 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/112
+#EXTINF:-1,Fox Premium 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/111
+#EXTINF:-1,Fox Premium 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/115
+#EXTINF:-1,Fox Premium 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/114
+#EXTINF:-1,Fox SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/106
+#EXTINF:-1,Fox Sports 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/121
+#EXTINF:-1,Fox Sports 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/120
 #EXTINF:-1,Fox Sports HD
-http://a.srvbr.me:8880/f10050/f10050/838
-#EXTINF:-1,Fox Sports Full HD
-http://a.srvbr.me:8880/f10050/f10050/5418
-#EXTINF:-1,Fox Sports HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1844
-#EXTINF:-1,Fox Sports 2
-http://a.srvbr.me:8880/f10050/f10050/836
-#EXTINF:-1,FOX Sports 2 HD
-http://a.srvbr.me:8880/f10050/f10050/835
-#EXTINF:-1,Fox Sports 2 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5456
-#EXTINF:-1,FOX Sports 2 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1843
-#EXTINF:-1,Futura
-http://a.srvbr.me:8880/f10050/f10050/834
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/118
+#EXTINF:-1,Fox Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/117
 #EXTINF:-1,Futura HD
-http://a.srvbr.me:8880/f10050/f10050/5316
-#EXTINF:-1,FX
-http://a.srvbr.me:8880/f10050/f10050/833
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/123
+#EXTINF:-1,Futura SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/122
 #EXTINF:-1,FX HD
-http://a.srvbr.me:8880/f10050/f10050/832
-#EXTINF:-1,FX HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1845
-#EXTINF:-1,Gazeta HD
-http://a.srvbr.me:8880/f10050/f10050/400
-#EXTINF:-1,Globo Brasília
-http://a.srvbr.me:8880/f10050/f10050/831
-#EXTINF:-1,Globo Brasilia HD
-http://a.srvbr.me:8880/f10050/f10050/5315
-#EXTINF:-1,Globo TV Centro America
-http://a.srvbr.me:8880/f10050/f10050/5127
-#EXTINF:-1,Globo EPTV Campinas
-http://a.srvbr.me:8880/f10050/f10050/5130
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/99
+#EXTINF:-1,FX SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/98
+#EXTINF:-1,Globo Anhanguera Goiania SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/127
+#EXTINF:-1,Globo Asa Branca SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/147
+#EXTINF:-1,Globo Brasilia SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/129
+#EXTINF:-1,Globo Centro América Cuiaba SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/130
+#EXTINF:-1,Globo EPTV Araraquara SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036446
 #EXTINF:-1,Globo EPTV Campinas HD
-http://a.srvbr.me:8880/f10050/f10050/5314
-#EXTINF:-1,Globo EPTV Sao Carlos
-http://a.srvbr.me:8880/f10050/f10050/5129
-#EXTINF:-1,Globo Ribeirão Preto
-http://a.srvbr.me:8880/f10050/f10050/5312
-#EXTINF:-1,Globo Ribeirão Preto HD
-http://a.srvbr.me:8880/f10050/f10050/5313
-#EXTINF:-1,Globo - TV Bahia
-http://a.srvbr.me:8880/f10050/f10050/5071
-#EXTINF:-1,Globo - TV Bahia HD
-http://a.srvbr.me:8880/f10050/f10050/5309
-#EXTINF:-1,Globo Minas
-http://a.srvbr.me:8880/f10050/f10050/830
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/132
+#EXTINF:-1,Globo EPTV Campinas SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/131
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/135
+#EXTINF:-1,Globo INTER TV Cabugi RN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715073
+#EXTINF:-1,Globo Internacional SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/160
+#EXTINF:-1,Globo InterTV Alto Litoral HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036430
+#EXTINF:-1,Globo InterTV Serra Mar SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032884
+#EXTINF:-1,Globo TV Itapetininga SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032883
 #EXTINF:-1,Globo Minas HD
-http://a.srvbr.me:8880/f10050/f10050/5093
-#EXTINF:-1,Globo Minas Full HD
-http://a.srvbr.me:8880/f10050/f10050/5472
-#EXTINF:-1,Globo News
-http://a.srvbr.me:8880/f10050/f10050/826
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/137
+#EXTINF:-1,Globo Minas SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/136
 #EXTINF:-1,Globo News HD
-http://a.srvbr.me:8880/f10050/f10050/1498
-#EXTINF:-1,Globo News Full HD
-http://a.srvbr.me:8880/f10050/f10050/5442
-#EXTINF:-1,Globo News HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1846
-#EXTINF:-1,Globo Nordeste
-http://a.srvbr.me:8880/f10050/f10050/5067
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/159
+#EXTINF:-1,Globo News SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/158
 #EXTINF:-1,Globo Nordeste HD
-http://a.srvbr.me:8880/f10050/f10050/5073
-#EXTINF:-1,Globo - RBS TV
-http://a.srvbr.me:8880/f10050/f10050/764
-#EXTINF:-1,Globo - RBS TV HD
-http://a.srvbr.me:8880/f10050/f10050/5311
-#EXTINF:-1,Globo RJ
-http://a.srvbr.me:8880/f10050/f10050/829
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/140
+#EXTINF:-1,Globo Nordeste SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/139
+#EXTINF:-1,Globo NSC Blumenau SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032881
+#EXTINF:-1,Globo NSC Florianopolis SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032894
+#EXTINF:-1,Globo NSC Joinville SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038312
+#EXTINF:-1,Globo RBS Porto Alegre HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/146
+#EXTINF:-1,Globo RBS Porto Alegre SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/138
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032888
+#EXTINF:-1,Globo Rede Amazonica SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036445
+#EXTINF:-1,Globo Ribeirao Preto SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/134
 #EXTINF:-1,Globo RJ HD
-http://a.srvbr.me:8880/f10050/f10050/828
-#EXTINF:-1,Globo RJ Full HD
-http://a.srvbr.me:8880/f10050/f10050/5471
-#EXTINF:-1,Globo Rede HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1847
-#EXTINF:-1,Globo NSC TV Florianopolis
-http://a.srvbr.me:8880/f10050/f10050/5421
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-http://a.srvbr.me:8880/f10050/f10050/5420
-#EXTINF:-1,Globo Curitiba
-http://a.srvbr.me:8880/f10050/f10050/5128
-#EXTINF:-1,Globo Curitiba HD
-http://a.srvbr.me:8880/f10050/f10050/5310
-#EXTINF:-1,Globo RPC Curitiba Full HD
-http://a.srvbr.me:8880/f10050/f10050/5469
-#EXTINF:-1,Globo SP
-http://a.srvbr.me:8880/f10050/f10050/827
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/143
+#EXTINF:-1,Globo RJ SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/142
+#EXTINF:-1,Globo RPC Curitiba HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715081
+#EXTINF:-1,Globo RPC Curitiba SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715080
+#EXTINF:-1,Globo RPC Maringa SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038313
+#EXTINF:-1,Globo RPC Paranavaí SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032893
+#EXTINF:-1,Globo Sergipe SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/714891
 #EXTINF:-1,Globo SP HD
-http://a.srvbr.me:8880/f10050/f10050/5095
-#EXTINF:-1,Globo TV Gazeta Vitória
-http://a.srvbr.me:8880/f10050/f10050/12077
-#EXTINF:-1,Globo TV Gazeta Vitória Full HD
-http://a.srvbr.me:8880/f10050/f10050/12078
-#EXTINF:-1,Globo TV Gazeta Vitória HD
-http://a.srvbr.me:8880/f10050/f10050/12079
-#EXTINF:-1,Globo TV Gazeta SUL ES Full HD
-http://a.srvbr.me:8880/f10050/f10050/12080
-#EXTINF:-1,Globo TV Gazeta ES HD
-http://a.srvbr.me:8880/f10050/f10050/12081
-#EXTINF:-1,Globo SP Full HD
-http://a.srvbr.me:8880/f10050/f10050/5470
-#EXTINF:-1,Globo SP HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/5528
-#EXTINF:-1,Globo Anhaguera Goiania
-http://a.srvbr.me:8880/f10050/f10050/5074
-#EXTINF:-1,Globo Goias - TV Anhanguera HD
-http://a.srvbr.me:8880/f10050/f10050/5072
-#EXTINF:-1,Globo TV Tribuna Santos
-http://a.srvbr.me:8880/f10050/f10050/5126
-#EXTINF:-1,TV Vanguarda Sao Jose dos Campos
-http://a.srvbr.me:8880/f10050/f10050/5125
-#EXTINF:-1,Globo Para (Belem) - TV Liberal
-http://a.srvbr.me:8880/f10050/f10050/5069
-#EXTINF:-1,Globo TV TEM S.J. Rio Preto
-http://a.srvbr.me:8880/f10050/f10050/5307
-#EXTINF:-1,Globo TV TEM S.J. Rio Preto HD
-http://a.srvbr.me:8880/f10050/f10050/5308
-#EXTINF:-1,Globo - TV TEM Bauru
-http://a.srvbr.me:8880/f10050/f10050/714
-#EXTINF:-1,Globo - TV TEM Sorocaba
-http://a.srvbr.me:8880/f10050/f10050/713
-#EXTINF:-1,Globo - TV Verdes Mares
-http://a.srvbr.me:8880/f10050/f10050/5068
-#EXTINF:-1,+Globosat
-http://a.srvbr.me:8880/f10050/f10050/804
-#EXTINF:-1,+Globosat HD
-http://a.srvbr.me:8880/f10050/f10050/1488
-#EXTINF:-1,+Globosat HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4135
-#EXTINF:-1,Gloob
-http://a.srvbr.me:8880/f10050/f10050/825
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/149
+#EXTINF:-1,Globo SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/148
+#EXTINF:-1,Globo TV Bahia Full HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036432
+#EXTINF:-1,Globo TV Bahia HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036431
+#EXTINF:-1,Globo TV Bahia SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/128
+#EXTINF:-1,Globo TV Diario HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032895
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1036428
+#EXTINF:-1,Globo TV Integração
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038311
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/151
+#EXTINF:-1,Globo TV Mirante SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032882
+#EXTINF:-1,Globo TV Morena SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/126
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/153
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/154
+#EXTINF:-1,Globo TV Tem São José Do Rio Preto SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/716149
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/155
+#EXTINF:-1,Globo TV Vanguarda Sâo José Dos Campos SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/156
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/157
 #EXTINF:-1,Gloob HD
-http://a.srvbr.me:8880/f10050/f10050/1490
-#EXTINF:-1,Gloob Full HD
-http://a.srvbr.me:8880/f10050/f10050/5441
-#EXTINF:-1,Gloob HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1848
-#EXTINF:-1,Gloobinho
-http://a.srvbr.me:8880/f10050/f10050/5306
-#EXTINF:-1,Gloobinho HD
-http://a.srvbr.me:8880/f10050/f10050/5305
-#EXTINF:-1,GNT
-http://a.srvbr.me:8880/f10050/f10050/824
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/167
+#EXTINF:-1,Gloob SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/166
+#EXTINF:-1,Gloobinho SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032896
 #EXTINF:-1,GNT HD
-http://a.srvbr.me:8880/f10050/f10050/823
-#EXTINF:-1,GNT HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4142
-#EXTINF:-1,H2
-http://a.srvbr.me:8880/f10050/f10050/822
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/125
+#EXTINF:-1,GNT SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/124
 #EXTINF:-1,H2 HD
-http://a.srvbr.me:8880/f10050/f10050/821
-#EXTINF:-1,H2 [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4141
-#EXTINF:-1,HBO
-http://a.srvbr.me:8880/f10050/f10050/820
-#EXTINF:-1,HBO HD
-http://a.srvbr.me:8880/f10050/f10050/816
-#EXTINF:-1,HBO Full HD
-http://a.srvbr.me:8880/f10050/f10050/5467
-#EXTINF:-1,HBO HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1850
-#EXTINF:-1,HBO 2
-http://a.srvbr.me:8880/f10050/f10050/810
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/169
+#EXTINF:-1,H2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/168
 #EXTINF:-1,HBO 2 HD
-http://a.srvbr.me:8880/f10050/f10050/819
-#EXTINF:-1,HBO 2 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5468
-#EXTINF:-1,HBO 2 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1849
-#EXTINF:-1,HBO Family
-http://a.srvbr.me:8880/f10050/f10050/818
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/174
+#EXTINF:-1,HBO 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/173
 #EXTINF:-1,HBO Family HD
-http://a.srvbr.me:8880/f10050/f10050/817
-#EXTINF:-1,HBO Family HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4140
-#EXTINF:-1,HBO Plus
-http://a.srvbr.me:8880/f10050/f10050/815
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/177
+#EXTINF:-1,HBO Family SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/176
+#EXTINF:-1,HBO HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/171
+#EXTINF:-1,HBO Mundi HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/194
+#EXTINF:-1,HBO Mundi SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/193
 #EXTINF:-1,HBO Plus HD
-http://a.srvbr.me:8880/f10050/f10050/813
-#EXTINF:-1,HBO Plus HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4139
-#EXTINF:-1,HBO Signature
-http://a.srvbr.me:8880/f10050/f10050/812
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/179
+#EXTINF:-1,HBO Plus SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/178
+#EXTINF:-1,HBO Plus*e HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/181
+#EXTINF:-1,HBO Plus*e SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/180
+#EXTINF:-1,HBO Pop HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/200
+#EXTINF:-1,HBO Pop SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/199
+#EXTINF:-1,HBO SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/170
 #EXTINF:-1,HBO Signature HD
-http://a.srvbr.me:8880/f10050/f10050/811
-#EXTINF:-1,HBO Signature HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4138
-#EXTINF:-1,History
-http://a.srvbr.me:8880/f10050/f10050/726
-#EXTINF:-1,History HD
-http://a.srvbr.me:8880/f10050/f10050/809
-#EXTINF:-1,History Full HD
-http://a.srvbr.me:8880/f10050/f10050/5424
-#EXTINF:-1,History HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4137
-#EXTINF:-1,ID
-http://a.srvbr.me:8880/f10050/f10050/807
-#EXTINF:-1,ID HD
-http://a.srvbr.me:8880/f10050/f10050/806
-#EXTINF:-1,ID HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4155
-#EXTINF:-1,Lifetime
-http://a.srvbr.me:8880/f10050/f10050/805
-#EXTINF:-1,Lifetime HD
-http://a.srvbr.me:8880/f10050/f10050/1489
-#EXTINF:-1,Lifetime [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4136
-#EXTINF:-1,HBO MUNDI
-http://a.srvbr.me:8880/f10050/f10050/803
-#EXTINF:-1,HBO MUNDI HD
-http://a.srvbr.me:8880/f10050/f10050/1497
-#EXTINF:-1,HBO XTREME
-http://a.srvbr.me:8880/f10050/f10050/802
-#EXTINF:-1,Sony
-http://a.srvbr.me:8880/f10050/f10050/881
-#EXTINF:-1,Sony HD
-http://a.srvbr.me:8880/f10050/f10050/880
-#EXTINF:-1,Sony HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4115
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/183
+#EXTINF:-1,HBO Signature SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/182
 #EXTINF:-1,HBO Xtreme HD
-http://a.srvbr.me:8880/f10050/f10050/1487
-#EXTINF:-1,Maxup HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4134
-#EXTINF:-1,MegaPix
-http://a.srvbr.me:8880/f10050/f10050/799
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/196
+#EXTINF:-1,HBO Xtreme SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/195
+#EXTINF:-1,HGTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/59
+#EXTINF:-1,HGTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/58
+#EXTINF:-1,History Channel HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/185
+#EXTINF:-1,History Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/184
+#EXTINF:-1,ID Investigação Discovery HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/188
+#EXTINF:-1,ID Investigação Discovery SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/187
+#EXTINF:-1,Lifetime HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/190
+#EXTINF:-1,Lifetime SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/189
+#EXTINF:-1,Mais Globosat HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/165
+#EXTINF:-1,Mais Globosat SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/164
 #EXTINF:-1,Megapix HD
-http://a.srvbr.me:8880/f10050/f10050/798
-#EXTINF:-1,Megapix HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1851
-#EXTINF:-1,MTV
-http://a.srvbr.me:8880/f10050/f10050/797
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/202
+#EXTINF:-1,Megapix SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/201
 #EXTINF:-1,MTV HD
-http://a.srvbr.me:8880/f10050/f10050/1485
-#EXTINF:-1,MTV HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4133
-#EXTINF:-1,Multishow
-http://a.srvbr.me:8880/f10050/f10050/796
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/192
+#EXTINF:-1,MTV Live HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/368
+#EXTINF:-1,MTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/191
 #EXTINF:-1,Multishow HD
-http://a.srvbr.me:8880/f10050/f10050/795
-#EXTINF:-1,Multishow HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4131
-#EXTINF:-1,Music Box Brasil
-http://a.srvbr.me:8880/f10050/f10050/794
-#EXTINF:-1,Music Box Brasil HD
-http://a.srvbr.me:8880/f10050/f10050/5304
-#EXTINF:-1,NatGeo Wild
-http://a.srvbr.me:8880/f10050/f10050/793
-#EXTINF:-1,NatGeo Wild HD
-http://a.srvbr.me:8880/f10050/f10050/702
-#EXTINF:-1,Nat Geo Wild Full HD
-http://a.srvbr.me:8880/f10050/f10050/5428
-#EXTINF:-1,Natgeo Kids
-http://a.srvbr.me:8880/f10050/f10050/5303
-#EXTINF:-1,Natgeo Kids HD
-http://a.srvbr.me:8880/f10050/f10050/5302
-#EXTINF:-1,National Geographic
-http://a.srvbr.me:8880/f10050/f10050/792
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/204
+#EXTINF:-1,Multishow SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/203
+#EXTINF:-1,Music Box Brazil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/206
+#EXTINF:-1,Nat Geo Kids HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/208
+#EXTINF:-1,Nat Geo Kids SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/207
+#EXTINF:-1,Nat Geo Wild HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/211
+#EXTINF:-1,Nat Geo Wild SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/210
 #EXTINF:-1,National Geographic HD
-http://a.srvbr.me:8880/f10050/f10050/791
-#EXTINF:-1,National Geographic [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4129
-#EXTINF:-1,NHK
-http://a.srvbr.me:8880/f10050/f10050/789
-#EXTINF:-1,Nickelodeon
-http://a.srvbr.me:8880/f10050/f10050/787
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/213
+#EXTINF:-1,National Geographic SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/212
+#EXTINF:-1,Nick Jr HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/216
+#EXTINF:-1,Nick Jr SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/215
 #EXTINF:-1,Nickelodeon HD
-http://a.srvbr.me:8880/f10050/f10050/1484
-#EXTINF:-1,Nicklodeon Full HD
-http://a.srvbr.me:8880/f10050/f10050/5426
-#EXTINF:-1,Nickelodeon HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4128
-#EXTINF:-1,Nick Jr.
-http://a.srvbr.me:8880/f10050/f10050/788
-#EXTINF:-1,Nick Jr. HD
-http://a.srvbr.me:8880/f10050/f10050/5301
-#EXTINF:-1,Nick JR Full HD
-http://a.srvbr.me:8880/f10050/f10050/5427
-#EXTINF:-1,OFF
-http://a.srvbr.me:8880/f10050/f10050/785
-#EXTINF:-1,OFF HD
-http://a.srvbr.me:8880/f10050/f10050/784
-#EXTINF:-1,OFF HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4125
-#EXTINF:-1,Paramount Channel
-http://a.srvbr.me:8880/f10050/f10050/783
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/219
+#EXTINF:-1,Nickelodeon SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/218
+#EXTINF:-1,Novo Tempo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/221
+#EXTINF:-1,Off HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/223
+#EXTINF:-1,Off SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/222
 #EXTINF:-1,Paramount Channel HD
-http://a.srvbr.me:8880/f10050/f10050/782
-#EXTINF:-1,Paramount HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4124
-#EXTINF:-1,Premiere Clubes
-http://a.srvbr.me:8880/f10050/f10050/767
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/226
+#EXTINF:-1,Paramount Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/225
+#EXTINF:-1,PlayTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/227
+#EXTINF:-1,Polishop TV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038288
+#EXTINF:-1,Premiere 1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/229
+#EXTINF:-1,Premiere 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/231
+#EXTINF:-1,Premiere 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/230
+#EXTINF:-1,Premiere 3 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/233
+#EXTINF:-1,Premiere 3 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/232
+#EXTINF:-1,Premiere 4 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/236
+#EXTINF:-1,Premiere 4 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/235
+#EXTINF:-1,Premiere 5 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/238
+#EXTINF:-1,Premiere 5 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/237
+#EXTINF:-1,Premiere 6 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/64653
+#EXTINF:-1,Premiere 6 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/239
+#EXTINF:-1,Premiere 7 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/240
+#EXTINF:-1,Premiere 8 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/241
 #EXTINF:-1,Premiere Clubes HD
-http://a.srvbr.me:8880/f10050/f10050/780
-#EXTINF:-1,Premiere Clubes Full HD
-http://a.srvbr.me:8880/f10050/f10050/5455
-#EXTINF:-1,Premiere Clubes HD [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/1852
-#EXTINF:-1,PFC 2
-http://a.srvbr.me:8880/f10050/f10050/779
-#EXTINF:-1,PFC 2 HD
-http://a.srvbr.me:8880/f10050/f10050/778
-#EXTINF:-1,PFC 2 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5454
-#EXTINF:-1,PFC 2 [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/1853
-#EXTINF:-1,PFC 3
-http://a.srvbr.me:8880/f10050/f10050/777
-#EXTINF:-1,PFC 3 HD
-http://a.srvbr.me:8880/f10050/f10050/776
-#EXTINF:-1,PFC 3 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5453
-#EXTINF:-1,PFC 3 [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/1854
-#EXTINF:-1,PFC 4
-http://a.srvbr.me:8880/f10050/f10050/775
-#EXTINF:-1,PFC 4 HD
-http://a.srvbr.me:8880/f10050/f10050/774
-#EXTINF:-1,PFC 4 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5452
-#EXTINF:-1,PFC 4 [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/1855
-#EXTINF:-1,PFC 5
-http://a.srvbr.me:8880/f10050/f10050/773
-#EXTINF:-1,PFC 5 HD
-http://a.srvbr.me:8880/f10050/f10050/772
-#EXTINF:-1,PFC 5 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5451
-#EXTINF:-1,PFC 5 [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/1856
-#EXTINF:-1,PFC 6
-http://a.srvbr.me:8880/f10050/f10050/771
-#EXTINF:-1,PFC 6 HD
-http://a.srvbr.me:8880/f10050/f10050/4123
-#EXTINF:-1,PFC 6 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5450
-#EXTINF:-1,PFC 6 [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/5330
-#EXTINF:-1,PFC 7
-http://a.srvbr.me:8880/f10050/f10050/770
-#EXTINF:-1,PFC 7 HD
-http://a.srvbr.me:8880/f10050/f10050/4122
-#EXTINF:-1,PFC 7 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5449
-#EXTINF:-1,PFC 7 [ALTERNATIVO]
-http://a.srvbr.me:8880/f10050/f10050/5331
-#EXTINF:-1,PFC 8
-http://a.srvbr.me:8880/f10050/f10050/769
-#EXTINF:-1,PFC 9
-http://a.srvbr.me:8880/f10050/f10050/768
-#EXTINF:-1,Prime Box Brasil HD
-http://a.srvbr.me:8880/f10050/f10050/5300
-#EXTINF:-1,Record
-http://a.srvbr.me:8880/f10050/f10050/761
-#EXTINF:-1,Record HD
-http://a.srvbr.me:8880/f10050/f10050/763
-#EXTINF:-1,Record Full HD
-http://a.srvbr.me:8880/f10050/f10050/5466
-#EXTINF:-1,Globo Internacional
-http://a.srvbr.me:8880/f10050/f10050/604
-#EXTINF:-1,Record HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1857
-#EXTINF:-1,Record BA
-http://a.srvbr.me:8880/f10050/f10050/11072
-#EXTINF:-1,Record BA HD
-http://a.srvbr.me:8880/f10050/f10050/11071
-#EXTINF:-1,Record DF
-http://a.srvbr.me:8880/f10050/f10050/11069
-#EXTINF:-1,Record DF HD
-http://a.srvbr.me:8880/f10050/f10050/11068
-#EXTINF:-1,Record MG
-http://a.srvbr.me:8880/f10050/f10050/7565
-#EXTINF:-1,Record MG HD
-http://a.srvbr.me:8880/f10050/f10050/7566
-#EXTINF:-1,Record RJ
-http://a.srvbr.me:8880/f10050/f10050/7567
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/244
+#EXTINF:-1,Premiere Clubes SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/243
+#EXTINF:-1,Prime Box Brazil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755753
+#EXTINF:-1,Record Bahia HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/252
+#EXTINF:-1,Record Brasília SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715078
+#EXTINF:-1,Record Campinas HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/247
+#EXTINF:-1,Record Campinas SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/246
+#EXTINF:-1,Record Esp. Santo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/248
+#EXTINF:-1,Record MG SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715079
+#EXTINF:-1,Record News HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/254
+#EXTINF:-1,Record News SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/253
 #EXTINF:-1,Record RJ HD
-http://a.srvbr.me:8880/f10050/f10050/7568
-#EXTINF:-1,Record RS
-http://a.srvbr.me:8880/f10050/f10050/11066
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715077
 #EXTINF:-1,Record RS HD
-http://a.srvbr.me:8880/f10050/f10050/11065
-#EXTINF:-1,Record Internacional
-http://a.srvbr.me:8880/f10050/f10050/899
-#EXTINF:-1,Record News
-http://a.srvbr.me:8880/f10050/f10050/762
-#EXTINF:-1,RedeTV!
-http://a.srvbr.me:8880/f10050/f10050/759
-#EXTINF:-1,RedeTV! HD
-http://a.srvbr.me:8880/f10050/f10050/758
-#EXTINF:-1,RedeTV! HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4119
-#EXTINF:-1,Rede Vida
-http://a.srvbr.me:8880/f10050/f10050/757
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032892
+#EXTINF:-1,Record SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/250
+#EXTINF:-1,Record SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/249
+#EXTINF:-1,Record TV Vitoria SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/245
+#EXTINF:-1,Rede Familia SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13416
+#EXTINF:-1,Rede Gospel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717116
 #EXTINF:-1,Rede Vida HD
-http://a.srvbr.me:8880/f10050/f10050/5653
-#EXTINF:-1,SBT
-http://a.srvbr.me:8880/f10050/f10050/756
-#EXTINF:-1,SBT HD
-http://a.srvbr.me:8880/f10050/f10050/755
-#EXTINF:-1,SBT Full HD
-http://a.srvbr.me:8880/f10050/f10050/5465
-#EXTINF:-1,SBT HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1858
-#EXTINF:-1,SBT SP Interior
-http://a.srvbr.me:8880/f10050/f10050/5297
-#EXTINF:-1,Smithsonian Channel
-http://a.srvbr.me:8880/f10050/f10050/11419
-#EXTINF:-1,Smithsonian Channel HD
-http://a.srvbr.me:8880/f10050/f10050/11420
-#EXTINF:-1,RTP Internacional
-http://a.srvbr.me:8880/f10050/f10050/574
-#EXTINF:-1,Space
-http://a.srvbr.me:8880/f10050/f10050/753
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/259
+#EXTINF:-1,Rede Vida SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/258
+#EXTINF:-1,RedeTV! HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/257
+#EXTINF:-1,RedeTV! SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/256
+#EXTINF:-1,RIT TV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717114
+#EXTINF:-1,SBT Goias HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13415
+#EXTINF:-1,SBT Nordeste HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/263
+#EXTINF:-1,SBT RJ HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/66349
+#EXTINF:-1,SBT SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/262
+#EXTINF:-1,SBT SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/261
+#EXTINF:-1,SBT TV Cidade Verde Piaui HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715076
+#EXTINF:-1,SBT TV Jornal Pernambuco SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715075
+#EXTINF:-1,Shoptime SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038289
+#EXTINF:-1,Canal Sony HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/266
+#EXTINF:-1,Canal Sony SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/265
 #EXTINF:-1,Space HD
-http://a.srvbr.me:8880/f10050/f10050/752
-#EXTINF:-1,Space HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4114
-#EXTINF:-1,SporTV
-http://a.srvbr.me:8880/f10050/f10050/748
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/269
+#EXTINF:-1,Space SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/268
+#EXTINF:-1,SporTV 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/275
+#EXTINF:-1,SporTV 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/274
+#EXTINF:-1,SporTV 3 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/278
+#EXTINF:-1,SporTV 3 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/277
 #EXTINF:-1,SporTV HD
-http://a.srvbr.me:8880/f10050/f10050/749
-#EXTINF:-1,Sportv Full HD
-http://a.srvbr.me:8880/f10050/f10050/5438
-#EXTINF:-1,SporTV HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1859
-#EXTINF:-1,SporTV2
-http://a.srvbr.me:8880/f10050/f10050/747
-#EXTINF:-1,SporTV2 HD
-http://a.srvbr.me:8880/f10050/f10050/751
-#EXTINF:-1,Sportv 2 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5439
-#EXTINF:-1,SporTV2 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1860
-#EXTINF:-1,SporTV3
-http://a.srvbr.me:8880/f10050/f10050/745
-#EXTINF:-1,SporTV3 HD
-http://a.srvbr.me:8880/f10050/f10050/750
-#EXTINF:-1,Sportv 3 Full HD
-http://a.srvbr.me:8880/f10050/f10050/5440
-#EXTINF:-1,SporTV3 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1861
-#EXTINF:-1,Studio Universal
-http://a.srvbr.me:8880/f10050/f10050/743
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/273
+#EXTINF:-1,SporTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/272
 #EXTINF:-1,Studio Universal HD
-http://a.srvbr.me:8880/f10050/f10050/1480
-#EXTINF:-1,Studio Universal HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4113
-#EXTINF:-1,SundanceTV
-http://a.srvbr.me:8880/f10050/f10050/5296
-#EXTINF:-1,SundanceTV HD
-http://a.srvbr.me:8880/f10050/f10050/5295
-#EXTINF:-1,Syfy
-http://a.srvbr.me:8880/f10050/f10050/742
-#EXTINF:-1,Syfy HD
-http://a.srvbr.me:8880/f10050/f10050/1483
-#EXTINF:-1,SyFy HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4111
-#EXTINF:-1,TBS
-http://a.srvbr.me:8880/f10050/f10050/741
-#EXTINF:-1,TBS HD
-http://a.srvbr.me:8880/f10050/f10050/740
-#EXTINF:-1,TBS [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4110
-#EXTINF:-1,TCM
-http://a.srvbr.me:8880/f10050/f10050/734
-#EXTINF:-1,TCM HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4109
-#EXTINF:-1,TCV INTERNACIONAL
-http://a.srvbr.me:8880/f10050/f10050/983
-#EXTINF:-1,Telecine Action
-http://a.srvbr.me:8880/f10050/f10050/733
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/280
+#EXTINF:-1,Studio Universal SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/279
+#EXTINF:-1,SyFy HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/283
+#EXTINF:-1,SyFy SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/282
+#EXTINF:-1,TBS SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/286
 #EXTINF:-1,Telecine Action HD
-http://a.srvbr.me:8880/f10050/f10050/739
-#EXTINF:-1,Telecine Action Full HD
-http://a.srvbr.me:8880/f10050/f10050/5464
-#EXTINF:-1,Telecine Action HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1862
-#EXTINF:-1,Telecine Cult
-http://a.srvbr.me:8880/f10050/f10050/732
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/296
+#EXTINF:-1,Telecine Action SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/295
 #EXTINF:-1,Telecine Cult HD
-http://a.srvbr.me:8880/f10050/f10050/1482
-#EXTINF:-1,Telecine Cult HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4108
-#EXTINF:-1,Telecine Fun
-http://a.srvbr.me:8880/f10050/f10050/731
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/299
+#EXTINF:-1,Telecine Cult SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/298
 #EXTINF:-1,Telecine Fun HD
-http://a.srvbr.me:8880/f10050/f10050/738
-#EXTINF:-1,Telecine Fun Full HD
-http://a.srvbr.me:8880/f10050/f10050/5463
-#EXTINF:-1,Telecine Fun HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1863
-#EXTINF:-1,Telecine Pipoca
-http://a.srvbr.me:8880/f10050/f10050/730
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/302
+#EXTINF:-1,Telecine Fun SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/301
 #EXTINF:-1,Telecine Pipoca HD
-http://a.srvbr.me:8880/f10050/f10050/737
-#EXTINF:-1,Telecine Pipoca Full HD
-http://a.srvbr.me:8880/f10050/f10050/5462
-#EXTINF:-1,Telecine Pipoca HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1864
-#EXTINF:-1,Telecine Premium
-http://a.srvbr.me:8880/f10050/f10050/729
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/305
+#EXTINF:-1,Telecine Pipoca SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/304
 #EXTINF:-1,Telecine Premium HD
-http://a.srvbr.me:8880/f10050/f10050/736
-#EXTINF:-1,Telecine Premium Full HD
-http://a.srvbr.me:8880/f10050/f10050/5461
-#EXTINF:-1,Telecine Premium HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1865
-#EXTINF:-1,Telecine Touch
-http://a.srvbr.me:8880/f10050/f10050/728
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/308
+#EXTINF:-1,Telecine Premium SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/307
 #EXTINF:-1,Telecine Touch HD
-http://a.srvbr.me:8880/f10050/f10050/735
-#EXTINF:-1,Telecine Touch Full HD
-http://a.srvbr.me:8880/f10050/f10050/5460
-#EXTINF:-1,Telecine Touch HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1866
-#EXTINF:-1,Terra Viva
-http://a.srvbr.me:8880/f10050/f10050/727
-#EXTINF:-1,TLC
-http://a.srvbr.me:8880/f10050/f10050/725
-#EXTINF:-1,TLC HD
-http://a.srvbr.me:8880/f10050/f10050/1481
-#EXTINF:-1,TLC HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1867
-#EXTINF:-1,TV Justica
-http://a.srvbr.me:8880/f10050/f10050/5293
-#EXTINF:-1,TNT
-http://a.srvbr.me:8880/f10050/f10050/724
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/310
+#EXTINF:-1,Telecine Touch SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/309
 #EXTINF:-1,TNT HD
-http://a.srvbr.me:8880/f10050/f10050/723
-#EXTINF:-1,TNT HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/1868
-#EXTINF:-1,TNT Séries
-http://a.srvbr.me:8880/f10050/f10050/722
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/292
+#EXTINF:-1,TNT SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/291
 #EXTINF:-1,TNT Séries HD
-http://a.srvbr.me:8880/f10050/f10050/721
-#EXTINF:-1,TNT Series HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4107
-#EXTINF:-1,PlayKids
-http://a.srvbr.me:8880/f10050/f10050/7563
-#EXTINF:-1,PlayKids HD
-http://a.srvbr.me:8880/f10050/f10050/7564
-#EXTINF:-1,Tooncast
-http://a.srvbr.me:8880/f10050/f10050/720
-#EXTINF:-1,Tooncast HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4106
-#EXTINF:-1,TruTV
-http://a.srvbr.me:8880/f10050/f10050/719
-#EXTINF:-1,TruTV HD
-http://a.srvbr.me:8880/f10050/f10050/5291
-#EXTINF:-1,TV Aparecida
-http://a.srvbr.me:8880/f10050/f10050/895
-#EXTINF:-1,TV Cultura
-http://a.srvbr.me:8880/f10050/f10050/5161
-#EXTINF:-1,TV Cultura HD
-http://a.srvbr.me:8880/f10050/f10050/5656
-#EXTINF:-1,TV Brasil
-http://a.srvbr.me:8880/f10050/f10050/717
-#EXTINF:-1,TV Câmara
-http://a.srvbr.me:8880/f10050/f10050/602
-#EXTINF:-1,TV Diário Fortaleza
-http://a.srvbr.me:8880/f10050/f10050/11063
-#EXTINF:-1,TV Diário Fortaleza HD
-http://a.srvbr.me:8880/f10050/f10050/11062
-#EXTINF:-1,TV Rá Tim Bum
-http://a.srvbr.me:8880/f10050/f10050/715
-#EXTINF:-1,TV Ra Tim Bum HD
-http://a.srvbr.me:8880/f10050/f10050/5292
-#EXTINF:-1,Universal Channel
-http://a.srvbr.me:8880/f10050/f10050/711
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/294
+#EXTINF:-1,TNT Séries SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/293
+#EXTINF:-1,Tooncast HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/313
+#EXTINF:-1,Tooncast SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/312
+#EXTINF:-1,Travel Box Brasil HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038159
+#EXTINF:-1,Travel Box Brazil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038158
+#EXTINF:-1,TruTV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032890
+#EXTINF:-1,TV Aparecida SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717115
+#EXTINF:-1,TV Gazeta SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/321
+#EXTINF:-1,TV Playkids
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755754
+#EXTINF:-1,TV Ra Tim Bum SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755752
+#EXTINF:-1,TV Século 21
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755662
 #EXTINF:-1,Universal Channel HD
-http://a.srvbr.me:8880/f10050/f10050/710
-#EXTINF:-1,Universal Channel HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4103
-#EXTINF:-1,VH1
-http://a.srvbr.me:8880/f10050/f10050/5290
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/326
+#EXTINF:-1,Universal Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/325
 #EXTINF:-1,VH1 HD
-http://a.srvbr.me:8880/f10050/f10050/1479
-#EXTINF:-1,VH1 HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4101
-#EXTINF:-1,VH1 Mega Hits
-http://a.srvbr.me:8880/f10050/f10050/709
-#EXTINF:-1,Viva
-http://a.srvbr.me:8880/f10050/f10050/708
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/328
+#EXTINF:-1,VH1 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/327
 #EXTINF:-1,Viva HD
-http://a.srvbr.me:8880/f10050/f10050/707
-#EXTINF:-1,Viva Full HD
-http://a.srvbr.me:8880/f10050/f10050/5437
-#EXTINF:-1,Viva HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4100
-#EXTINF:-1,Warner Channel
-http://a.srvbr.me:8880/f10050/f10050/706
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/330
+#EXTINF:-1,Viva SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/329
 #EXTINF:-1,Warner Channel HD
-http://a.srvbr.me:8880/f10050/f10050/705
-#EXTINF:-1,Warner Full HD
-http://a.srvbr.me:8880/f10050/f10050/5425
-#EXTINF:-1,Warner Channel HD [PLUS]
-http://a.srvbr.me:8880/f10050/f10050/4099
-#EXTINF:-1,Woohoo
-http://a.srvbr.me:8880/f10050/f10050/704
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/332
+#EXTINF:-1,Warner Channel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/331
 #EXTINF:-1,Woohoo HD
-http://a.srvbr.me:8880/f10050/f10050/5657
-#EXTINF:-1,Anos 70
-http://a.srvbr.me:8880/f10050/f10050/932
-#EXTINF:-1,Anos 80
-http://a.srvbr.me:8880/f10050/f10050/931
-#EXTINF:-1,Anos 90
-http://a.srvbr.me:8880/f10050/f10050/930
-#EXTINF:-1,Bossa Nova
-http://a.srvbr.me:8880/f10050/f10050/929
-#EXTINF:-1,Eletrônica
-http://a.srvbr.me:8880/f10050/f10050/928
-#EXTINF:-1,Festa
-http://a.srvbr.me:8880/f10050/f10050/927
-#EXTINF:-1,Forró
-http://a.srvbr.me:8880/f10050/f10050/926
-#EXTINF:-1,Gospel
-http://a.srvbr.me:8880/f10050/f10050/925
-#EXTINF:-1,Hip Hop
-http://a.srvbr.me:8880/f10050/f10050/924
-#EXTINF:-1,Jazz
-http://a.srvbr.me:8880/f10050/f10050/923
-#EXTINF:-1,Kids
-http://a.srvbr.me:8880/f10050/f10050/922
-#EXTINF:-1,Lounge
-http://a.srvbr.me:8880/f10050/f10050/921
-#EXTINF:-1,MPB
-http://a.srvbr.me:8880/f10050/f10050/920
-#EXTINF:-1,Pagode
-http://a.srvbr.me:8880/f10050/f10050/919
-#EXTINF:-1,Pop Hits
-http://a.srvbr.me:8880/f10050/f10050/918
-#EXTINF:-1,Rock Clássico
-http://a.srvbr.me:8880/f10050/f10050/916
-#EXTINF:-1,Reggae
-http://a.srvbr.me:8880/f10050/f10050/917
-#EXTINF:-1,Românticas
-http://a.srvbr.me:8880/f10050/f10050/915
-#EXTINF:-1,Samba de Raiz
-http://a.srvbr.me:8880/f10050/f10050/914
-#EXTINF:-1,Sertanejo Universitário
-http://a.srvbr.me:8880/f10050/f10050/913
-#EXTINF:-1,Pica Pau
-http://a.srvbr.me:8880/f10050/f10050/5114
-#EXTINF:-1,Pokemon Sun and Moon 1º Temporada 2018
-http://a.srvbr.me:8880/f10050/f10050/5275
-#EXTINF:-1,Dragon Ball Super
-http://a.srvbr.me:8880/f10050/f10050/5277
-#EXTINF:-1,A.I.C.O. Incarnation 2018
-http://a.srvbr.me:8880/f10050/f10050/5276
-#EXTINF:-1,Tom & Jerry
-http://a.srvbr.me:8880/f10050/f10050/5115
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/334
+#EXTINF:-1,Woohoo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/333
+#EXTINF:-1,Zoomoo HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/336
+#EXTINF:-1,Zoomoo SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/335
+#EXTINF:-1,TCM SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/288
+#EXTINF:-1,NHK SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038358
+#EXTINF:-1,NHK HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038359
+#EXTINF:-1,FashionTV HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038360
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038365
