@@ -1,194 +1,907 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://iv.pe/xsU" group-title="Canais | Variedades",A&E	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/aie.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/XYZ" group-title="Canais | Documentários",Animal Planet	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/rSN" group-title="Canais | Documentários",Arte 1	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/arte1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/axn.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/WYh" group-title="Canais | Notícias",BandNews HD	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/bandnews.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/8hZ" group-title="Canais | Esportes",BandSports	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/bandsports.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/wj1" group-title="Canais | BBB",BBB	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/IKy" group-title="Canais | Variedades",Bis	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/bis.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/v9i" group-title="Canais | Infantis",Boomerang	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/boomerang.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/D7m" group-title="Canais | Infantis",Cartoon Network	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/pUK" group-title="Canais | Filmes e Séries",Cinemax HD	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/cinemax.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Gh2" group-title="Canais | Esportes",Combate	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/ohU" group-title="Canais | Variedades",Comedy Central	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/comedycentral.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Brb" group-title="Canais | Documentários",Curta	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/curta.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/gSH" group-title="Canais | Documentários",Discovery Channel	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/MIw" group-title="Canais | Documentários",Discovery Civilization	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/CaF" group-title="Canais | Infantis",Discovery Kids	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverykids.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/XpL" group-title="Canais | Documentários",Discovery Science	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverysience.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/aD9" group-title="Canais | Documentários",Discovery Theater	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoverytheater.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/v8J" group-title="Canais | Variedades",Discovery Turbo	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/iva" group-title="Canais | Documentários",Discovery World	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoveryworld.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/UMf" group-title="Canais | Infantis",Disney Channel	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/disney.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/xms" group-title="Canais | Infantis",Disney Jr	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyjunior.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/2qe" group-title="Canais | Infantis",Disney XD	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/disneyxd.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/1aC" group-title="Canais | Variedades",E!	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/canale.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="Canais | Esportes",ESPN Extra	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/U75" group-title="Canais | Esportes",ESPN Brasil	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Jc3" group-title="Canais | Esportes",ESPN Extra	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/4TD" group-title="Canais | Esportes",ESPN 2 	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/xOv" group-title="Canais | Variedades",Food Network	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/foodnetwork.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/x4P" group-title="Canais | Filmes e Séries",FOX 	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/SdR" group-title="Canais | Filmes e Séries",FOX Premium 1	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/8PZ" group-title="Canais | Filmes e Séries",FOX Premium 2 	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOX Sports 1	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOX Sports 2	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOXLife	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/foxlife.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/aDs" group-title="Canais | Filmes e Séries",FX	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/hng" group-title="Canais | Notícias",Globo News	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/globonews.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/aaq" group-title="Canais | Infantis",Gloob	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/gloob.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/NoG" group-title="Canais | Variedades",GNT	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/gnt.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/BwS" group-title="Canais | Documentários",H2	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Kcx" group-title="Canais | HBO",HBO 2	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/ZeQ" group-title="Canais | HBO",HBO Family	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/orv" group-title="Canais | HBO",HBO Plus	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/pOr" group-title="Canais | HBO",HBO Signature	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/tTM" group-title="Canais | HBO",HBO	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/eh7" group-title="Canais | Documentários",History Channel	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/SGu" group-title="Canais | Variedades",Discovery H&H	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Gon" group-title="Canais | Variedades",Investigation Discovery	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/investigacaodiscovery.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Ge2" group-title="Canais | Variedades",Lifetime	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/lifetime.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/3uB" group-title="Canais | Variedades",Mais	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/maisbobosat.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/max.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX Up	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxup.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX Prime	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/maxprime.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/megapix.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/76R" group-title="Canais | Variedades",MTV 	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/zuf" group-title="Canais | Variedades",MTV Live	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/mtvlive.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/jtx" group-title="Canais | Variedades",Multishow	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/TkQ" group-title="Canais | Documentários",NatGeo	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Seh" group-title="Canais | Infantis",NatGeo Kids	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeokids.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/t8l" group-title="Canais | Documentários",NatGeo Wild	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/NRu" group-title="Canais | Infantis",Nickelodeon	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/nick.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/hrs" group-title="Canais | Infantis",Nick Jr	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/nickjr.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/KNa" group-title="Canais | Variedades",OFF	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/off.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/FqD" group-title="Canais | Filmes e Séries",Paramount Channel	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/paramount.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 1	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 2	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 3	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 4	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 5	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 6	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/AU4" group-title="Canais | Premiere",Premiere 7	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/iRz" group-title="Canais | Notícias",Record News	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/sony.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Zgy" group-title="Canais | Filmes e Séries",Space	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/d4r" group-title="Canais | SporTV",SporTV	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/8xl" group-title="Canais | SporTV",SporTV 2	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Lsk" group-title="Canais | SporTV",SporTV 3 	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/Tn0" group-title="Canais | Filmes e Séries",Studio Universal	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/studiouniversal.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/4mR" group-title="Canais | Filmes e Séries",SyFy	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/syfy.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/TcB" group-title="Canais | Filmes e Séries",TCM	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/tcm.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/E3y" group-title="Canais | Telecine",Telecine Action	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/6c6" group-title="Canais | Telecine",Telecine Cult 	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/NUS" group-title="Canais | Telecine",Telecine Pipoca	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/ewn" group-title="Canais | Telecine",Telecine Premium	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/sUe" group-title="Canais | Telecine",Telecine Touch	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/WiL" group-title="Canais | Telecine",Telecine Fun	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/RAK" group-title="Canais | Variedades",TLC	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/tlc.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/dlK" group-title="Canais | Filmes e Séries",TNT	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/T8d" group-title="Canais | Filmes e Séries",TNT Series	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/F7Y" group-title="Canais | Infantis",Tooncast	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/tooncast.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/tNl" group-title="Canais | Filmes e Séries",Universal Channel	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/universal.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/g8Y" group-title="Canais | Variedades",Viva	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/viva.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Canais | Filmes e Séries",Warner Channel	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-logo="http://iv.pe/X8t" group-title="Canais | Infantis",ZooMoo	
-https://d1d41x3lh2ujlh.cloudfront.net/hls1/zoomoo.m3u8?wmsAuthSign=
-
+#EXTINF:-1,A&E
+http://a.srvbr.me:8880/f10050/f10050/898
+#EXTINF:-1,A&E HD
+http://a.srvbr.me:8880/f10050/f10050/4203
+#EXTINF:-1,A&E [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4167
+#EXTINF:-1,AMC
+http://a.srvbr.me:8880/f10050/f10050/5077
+#EXTINF:-1,AMC HD
+http://a.srvbr.me:8880/f10050/f10050/5076
+#EXTINF:-1,AMC [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4644
+#EXTINF:-1,AXN
+http://a.srvbr.me:8880/f10050/f10050/893
+#EXTINF:-1,AXN HD
+http://a.srvbr.me:8880/f10050/f10050/892
+#EXTINF:-1,AXN HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4165
+#EXTINF:-1,Animal Planet
+http://a.srvbr.me:8880/f10050/f10050/897
+#EXTINF:-1,Animal Planet HD
+http://a.srvbr.me:8880/f10050/f10050/896
+#EXTINF:-1,Animal Planet Full HD
+http://a.srvbr.me:8880/f10050/f10050/5436
+#EXTINF:-1,Animal Planet [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4166
+#EXTINF:-1,Arte 1
+http://a.srvbr.me:8880/f10050/f10050/894
+#EXTINF:-1,Arte 1 HD
+http://a.srvbr.me:8880/f10050/f10050/5329
+#EXTINF:-1,Baby TV
+http://a.srvbr.me:8880/f10050/f10050/5078
+#EXTINF:-1,BIS
+http://a.srvbr.me:8880/f10050/f10050/886
+#EXTINF:-1,BIS HD
+http://a.srvbr.me:8880/f10050/f10050/885
+#EXTINF:-1,BIS Full HD
+http://a.srvbr.me:8880/f10050/f10050/5447
+#EXTINF:-1,BIS HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4162
+#EXTINF:-1,Band
+http://a.srvbr.me:8880/f10050/f10050/887
+#EXTINF:-1,Band HD
+http://a.srvbr.me:8880/f10050/f10050/891
+#EXTINF:-1,Band Full HD
+http://a.srvbr.me:8880/f10050/f10050/5475
+#EXTINF:-1,Band HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4164
+#EXTINF:-1,Band News
+http://a.srvbr.me:8880/f10050/f10050/890
+#EXTINF:-1,Band News HD
+http://a.srvbr.me:8880/f10050/f10050/5162
+#EXTINF:-1,Band News Full HD
+http://a.srvbr.me:8880/f10050/f10050/5435
+#EXTINF:-1,Band News [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4163
+#EXTINF:-1,Band Sports
+http://a.srvbr.me:8880/f10050/f10050/889
+#EXTINF:-1,Band Sports HD
+http://a.srvbr.me:8880/f10050/f10050/888
+#EXTINF:-1,Band Sports [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1831
+#EXTINF:-1,Canal Brasil
+http://a.srvbr.me:8880/f10050/f10050/883
+#EXTINF:-1,Rede Boa Vontade
+http://a.srvbr.me:8880/f10050/f10050/5328
+#EXTINF:-1,Boomerang
+http://a.srvbr.me:8880/f10050/f10050/884
+#EXTINF:-1,Boomerang HD
+http://a.srvbr.me:8880/f10050/f10050/5327
+#EXTINF:-1,Boomerang Full HD
+http://a.srvbr.me:8880/f10050/f10050/5434
+#EXTINF:-1,Canção Nova
+http://a.srvbr.me:8880/f10050/f10050/879
+#EXTINF:-1,Cartoon Network
+http://a.srvbr.me:8880/f10050/f10050/878
+#EXTINF:-1,Cartoon Network HD
+http://a.srvbr.me:8880/f10050/f10050/877
+#EXTINF:-1,Cartoon Network [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4159
+#EXTINF:-1,Cinemax
+http://a.srvbr.me:8880/f10050/f10050/876
+#EXTINF:-1,Cinemax HD
+http://a.srvbr.me:8880/f10050/f10050/1495
+#EXTINF:-1,Cinemax HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/5124
+#EXTINF:-1,Comedy Central
+http://a.srvbr.me:8880/f10050/f10050/873
+#EXTINF:-1,Comedy Central HD
+http://a.srvbr.me:8880/f10050/f10050/5326
+#EXTINF:-1,Comedy Central HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1833
+#EXTINF:-1,Combate
+http://a.srvbr.me:8880/f10050/f10050/875
+#EXTINF:-1,Combate HD
+http://a.srvbr.me:8880/f10050/f10050/874
+#EXTINF:-1,Combate Full HD
+http://a.srvbr.me:8880/f10050/f10050/5474
+#EXTINF:-1,Combate HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1832
+#EXTINF:-1,COPA LIBERTADORES HD
+http://a.srvbr.me:8880/f10050/f10050/11444
+#EXTINF:-1,DAZN HD
+http://a.srvbr.me:8880/f10050/f10050/11443
+#EXTINF:-1,Curta!
+http://a.srvbr.me:8880/f10050/f10050/872
+#EXTINF:-1,Curta! HD
+http://a.srvbr.me:8880/f10050/f10050/5325
+#EXTINF:-1,Discovery Home & Health
+http://a.srvbr.me:8880/f10050/f10050/868
+#EXTINF:-1,Discovery Home & Health HD
+http://a.srvbr.me:8880/f10050/f10050/867
+#EXTINF:-1,Discovery Home & Health Full HD
+http://a.srvbr.me:8880/f10050/f10050/5433
+#EXTINF:-1,Discovery Home & Health [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4156
+#EXTINF:-1,Discovery Civilization
+http://a.srvbr.me:8880/f10050/f10050/869
+#EXTINF:-1,Discovery Civilization HD
+http://a.srvbr.me:8880/f10050/f10050/5324
+#EXTINF:-1,Discovery Civilization [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4157
+#EXTINF:-1,Discovery Channel
+http://a.srvbr.me:8880/f10050/f10050/871
+#EXTINF:-1,Discovery Channel HD
+http://a.srvbr.me:8880/f10050/f10050/870
+#EXTINF:-1,Discovery Channel Full HD
+http://a.srvbr.me:8880/f10050/f10050/5448
+#EXTINF:-1,Discovery Channel HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1834
+#EXTINF:-1,Discovery Kids
+http://a.srvbr.me:8880/f10050/f10050/866
+#EXTINF:-1,Discovery Kids HD
+http://a.srvbr.me:8880/f10050/f10050/1494
+#EXTINF:-1,Discovery kids Full HD
+http://a.srvbr.me:8880/f10050/f10050/5432
+#EXTINF:-1,Discovery Kids HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1835
+#EXTINF:-1,Discovery Science
+http://a.srvbr.me:8880/f10050/f10050/865
+#EXTINF:-1,Discovery Science HD
+http://a.srvbr.me:8880/f10050/f10050/5075
+#EXTINF:-1,Discovery Science [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4154
+#EXTINF:-1,Discovery Theater
+http://a.srvbr.me:8880/f10050/f10050/5323
+#EXTINF:-1,Discovery Theater HD
+http://a.srvbr.me:8880/f10050/f10050/864
+#EXTINF:-1,Discovery Theater HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4153
+#EXTINF:-1,Discovery World
+http://a.srvbr.me:8880/f10050/f10050/5322
+#EXTINF:-1,Discovery World HD
+http://a.srvbr.me:8880/f10050/f10050/861
+#EXTINF:-1,Discovery World Full HD
+http://a.srvbr.me:8880/f10050/f10050/5430
+#EXTINF:-1,Discovery World [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4151
+#EXTINF:-1,Disney Channel
+http://a.srvbr.me:8880/f10050/f10050/860
+#EXTINF:-1,Disney Channel HD
+http://a.srvbr.me:8880/f10050/f10050/1493
+#EXTINF:-1,Disney Channel Full HD
+http://a.srvbr.me:8880/f10050/f10050/5446
+#EXTINF:-1,Disney Channel HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4150
+#EXTINF:-1,Disney Junior
+http://a.srvbr.me:8880/f10050/f10050/859
+#EXTINF:-1,Disney Junior HD
+http://a.srvbr.me:8880/f10050/f10050/5562
+#EXTINF:-1,Disney XD
+http://a.srvbr.me:8880/f10050/f10050/858
+#EXTINF:-1,Disney XD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4149
+#EXTINF:-1,Discovery Turbo
+http://a.srvbr.me:8880/f10050/f10050/863
+#EXTINF:-1,Discovery Turbo HD
+http://a.srvbr.me:8880/f10050/f10050/862
+#EXTINF:-1,Discovery Turbo Full HD
+http://a.srvbr.me:8880/f10050/f10050/5431
+#EXTINF:-1,Discovery Turbo HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4152
+#EXTINF:-1,E!
+http://a.srvbr.me:8880/f10050/f10050/857
+#EXTINF:-1,E! HD
+http://a.srvbr.me:8880/f10050/f10050/4204
+#EXTINF:-1,EI PLUS SD
+http://a.srvbr.me:8880/f10050/f10050/11483
+#EXTINF:-1,EI PLUS HD
+http://a.srvbr.me:8880/f10050/f10050/11484
+#EXTINF:-1,ESPN
+http://a.srvbr.me:8880/f10050/f10050/4643
+#EXTINF:-1,ESPN HD
+http://a.srvbr.me:8880/f10050/f10050/848
+#EXTINF:-1,ESPN Full HD
+http://a.srvbr.me:8880/f10050/f10050/5458
+#EXTINF:-1,ESPN HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1839
+#EXTINF:-1,ESPN +  HD
+http://a.srvbr.me:8880/f10050/f10050/851
+#EXTINF:-1,ESPN EXTRA HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1837
+#EXTINF:-1,ESPN Brasil
+http://a.srvbr.me:8880/f10050/f10050/850
+#EXTINF:-1,ESPN Brasil HD
+http://a.srvbr.me:8880/f10050/f10050/849
+#EXTINF:-1,ESPN Brasil Full HD
+http://a.srvbr.me:8880/f10050/f10050/5459
+#EXTINF:-1,ESPN Brasil HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1838
+#EXTINF:-1,Espn Extra
+http://a.srvbr.me:8880/f10050/f10050/5321
+#EXTINF:-1,Espn Extra HD
+http://a.srvbr.me:8880/f10050/f10050/5320
+#EXTINF:-1,ESPN Extra Full HD
+http://a.srvbr.me:8880/f10050/f10050/5457
+#EXTINF:-1,Fish TV
+http://a.srvbr.me:8880/f10050/f10050/846
+#EXTINF:-1,Fish TV HD
+http://a.srvbr.me:8880/f10050/f10050/5319
+#EXTINF:-1,Food Network
+http://a.srvbr.me:8880/f10050/f10050/845
+#EXTINF:-1,Food Network HD
+http://a.srvbr.me:8880/f10050/f10050/1491
+#EXTINF:-1,Food Network [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4145
+#EXTINF:-1,FOX
+http://a.srvbr.me:8880/f10050/f10050/844
+#EXTINF:-1,FOX HD
+http://a.srvbr.me:8880/f10050/f10050/841
+#EXTINF:-1,Fox Full HD
+http://a.srvbr.me:8880/f10050/f10050/5473
+#EXTINF:-1,FOX [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1842
+#EXTINF:-1,Fox Premium
+http://a.srvbr.me:8880/f10050/f10050/5318
+#EXTINF:-1,FOX Premium HD
+http://a.srvbr.me:8880/f10050/f10050/843
+#EXTINF:-1,FOX Premium HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4144
+#EXTINF:-1,Fox Premium 2
+http://a.srvbr.me:8880/f10050/f10050/5317
+#EXTINF:-1,FOX Premium 2 HD
+http://a.srvbr.me:8880/f10050/f10050/842
+#EXTINF:-1,Fox Premium 2 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5429
+#EXTINF:-1,FOX Premium 2 HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4143
+#EXTINF:-1,Fox Life
+http://a.srvbr.me:8880/f10050/f10050/840
+#EXTINF:-1,FOX Life HD
+http://a.srvbr.me:8880/f10050/f10050/839
+#EXTINF:-1,Fox Sports
+http://a.srvbr.me:8880/f10050/f10050/837
+#EXTINF:-1,Fox Sports HD
+http://a.srvbr.me:8880/f10050/f10050/838
+#EXTINF:-1,Fox Sports Full HD
+http://a.srvbr.me:8880/f10050/f10050/5418
+#EXTINF:-1,Fox Sports HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1844
+#EXTINF:-1,Fox Sports 2
+http://a.srvbr.me:8880/f10050/f10050/836
+#EXTINF:-1,FOX Sports 2 HD
+http://a.srvbr.me:8880/f10050/f10050/835
+#EXTINF:-1,Fox Sports 2 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5456
+#EXTINF:-1,FOX Sports 2 HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1843
+#EXTINF:-1,Futura
+http://a.srvbr.me:8880/f10050/f10050/834
+#EXTINF:-1,Futura HD
+http://a.srvbr.me:8880/f10050/f10050/5316
+#EXTINF:-1,FX
+http://a.srvbr.me:8880/f10050/f10050/833
+#EXTINF:-1,FX HD
+http://a.srvbr.me:8880/f10050/f10050/832
+#EXTINF:-1,FX HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1845
+#EXTINF:-1,Gazeta HD
+http://a.srvbr.me:8880/f10050/f10050/400
+#EXTINF:-1,Globo Brasília
+http://a.srvbr.me:8880/f10050/f10050/831
+#EXTINF:-1,Globo Brasilia HD
+http://a.srvbr.me:8880/f10050/f10050/5315
+#EXTINF:-1,Globo TV Centro America
+http://a.srvbr.me:8880/f10050/f10050/5127
+#EXTINF:-1,Globo EPTV Campinas
+http://a.srvbr.me:8880/f10050/f10050/5130
+#EXTINF:-1,Globo EPTV Campinas HD
+http://a.srvbr.me:8880/f10050/f10050/5314
+#EXTINF:-1,Globo EPTV Sao Carlos
+http://a.srvbr.me:8880/f10050/f10050/5129
+#EXTINF:-1,Globo Ribeirão Preto
+http://a.srvbr.me:8880/f10050/f10050/5312
+#EXTINF:-1,Globo Ribeirão Preto HD
+http://a.srvbr.me:8880/f10050/f10050/5313
+#EXTINF:-1,Globo - TV Bahia
+http://a.srvbr.me:8880/f10050/f10050/5071
+#EXTINF:-1,Globo - TV Bahia HD
+http://a.srvbr.me:8880/f10050/f10050/5309
+#EXTINF:-1,Globo Minas
+http://a.srvbr.me:8880/f10050/f10050/830
+#EXTINF:-1,Globo Minas HD
+http://a.srvbr.me:8880/f10050/f10050/5093
+#EXTINF:-1,Globo Minas Full HD
+http://a.srvbr.me:8880/f10050/f10050/5472
+#EXTINF:-1,Globo News
+http://a.srvbr.me:8880/f10050/f10050/826
+#EXTINF:-1,Globo News HD
+http://a.srvbr.me:8880/f10050/f10050/1498
+#EXTINF:-1,Globo News Full HD
+http://a.srvbr.me:8880/f10050/f10050/5442
+#EXTINF:-1,Globo News HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1846
+#EXTINF:-1,Globo Nordeste
+http://a.srvbr.me:8880/f10050/f10050/5067
+#EXTINF:-1,Globo Nordeste HD
+http://a.srvbr.me:8880/f10050/f10050/5073
+#EXTINF:-1,Globo - RBS TV
+http://a.srvbr.me:8880/f10050/f10050/764
+#EXTINF:-1,Globo - RBS TV HD
+http://a.srvbr.me:8880/f10050/f10050/5311
+#EXTINF:-1,Globo RJ
+http://a.srvbr.me:8880/f10050/f10050/829
+#EXTINF:-1,Globo RJ HD
+http://a.srvbr.me:8880/f10050/f10050/828
+#EXTINF:-1,Globo RJ Full HD
+http://a.srvbr.me:8880/f10050/f10050/5471
+#EXTINF:-1,Globo Rede HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1847
+#EXTINF:-1,Globo NSC TV Florianopolis
+http://a.srvbr.me:8880/f10050/f10050/5421
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://a.srvbr.me:8880/f10050/f10050/5420
+#EXTINF:-1,Globo Curitiba
+http://a.srvbr.me:8880/f10050/f10050/5128
+#EXTINF:-1,Globo Curitiba HD
+http://a.srvbr.me:8880/f10050/f10050/5310
+#EXTINF:-1,Globo RPC Curitiba Full HD
+http://a.srvbr.me:8880/f10050/f10050/5469
+#EXTINF:-1,Globo SP
+http://a.srvbr.me:8880/f10050/f10050/827
+#EXTINF:-1,Globo SP HD
+http://a.srvbr.me:8880/f10050/f10050/5095
+#EXTINF:-1,Globo TV Gazeta Vitória
+http://a.srvbr.me:8880/f10050/f10050/12077
+#EXTINF:-1,Globo TV Gazeta Vitória Full HD
+http://a.srvbr.me:8880/f10050/f10050/12078
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+http://a.srvbr.me:8880/f10050/f10050/12079
+#EXTINF:-1,Globo TV Gazeta SUL ES Full HD
+http://a.srvbr.me:8880/f10050/f10050/12080
+#EXTINF:-1,Globo TV Gazeta ES HD
+http://a.srvbr.me:8880/f10050/f10050/12081
+#EXTINF:-1,Globo SP Full HD
+http://a.srvbr.me:8880/f10050/f10050/5470
+#EXTINF:-1,Globo SP HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/5528
+#EXTINF:-1,Globo Anhaguera Goiania
+http://a.srvbr.me:8880/f10050/f10050/5074
+#EXTINF:-1,Globo Goias - TV Anhanguera HD
+http://a.srvbr.me:8880/f10050/f10050/5072
+#EXTINF:-1,Globo TV Tribuna Santos
+http://a.srvbr.me:8880/f10050/f10050/5126
+#EXTINF:-1,TV Vanguarda Sao Jose dos Campos
+http://a.srvbr.me:8880/f10050/f10050/5125
+#EXTINF:-1,Globo Para (Belem) - TV Liberal
+http://a.srvbr.me:8880/f10050/f10050/5069
+#EXTINF:-1,Globo TV TEM S.J. Rio Preto
+http://a.srvbr.me:8880/f10050/f10050/5307
+#EXTINF:-1,Globo TV TEM S.J. Rio Preto HD
+http://a.srvbr.me:8880/f10050/f10050/5308
+#EXTINF:-1,Globo - TV TEM Bauru
+http://a.srvbr.me:8880/f10050/f10050/714
+#EXTINF:-1,Globo - TV TEM Sorocaba
+http://a.srvbr.me:8880/f10050/f10050/713
+#EXTINF:-1,Globo - TV Verdes Mares
+http://a.srvbr.me:8880/f10050/f10050/5068
+#EXTINF:-1,+Globosat
+http://a.srvbr.me:8880/f10050/f10050/804
+#EXTINF:-1,+Globosat HD
+http://a.srvbr.me:8880/f10050/f10050/1488
+#EXTINF:-1,+Globosat HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4135
+#EXTINF:-1,Gloob
+http://a.srvbr.me:8880/f10050/f10050/825
+#EXTINF:-1,Gloob HD
+http://a.srvbr.me:8880/f10050/f10050/1490
+#EXTINF:-1,Gloob Full HD
+http://a.srvbr.me:8880/f10050/f10050/5441
+#EXTINF:-1,Gloob HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1848
+#EXTINF:-1,Gloobinho
+http://a.srvbr.me:8880/f10050/f10050/5306
+#EXTINF:-1,Gloobinho HD
+http://a.srvbr.me:8880/f10050/f10050/5305
+#EXTINF:-1,GNT
+http://a.srvbr.me:8880/f10050/f10050/824
+#EXTINF:-1,GNT HD
+http://a.srvbr.me:8880/f10050/f10050/823
+#EXTINF:-1,GNT HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4142
+#EXTINF:-1,H2
+http://a.srvbr.me:8880/f10050/f10050/822
+#EXTINF:-1,H2 HD
+http://a.srvbr.me:8880/f10050/f10050/821
+#EXTINF:-1,H2 [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4141
+#EXTINF:-1,HBO
+http://a.srvbr.me:8880/f10050/f10050/820
+#EXTINF:-1,HBO HD
+http://a.srvbr.me:8880/f10050/f10050/816
+#EXTINF:-1,HBO Full HD
+http://a.srvbr.me:8880/f10050/f10050/5467
+#EXTINF:-1,HBO HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1850
+#EXTINF:-1,HBO 2
+http://a.srvbr.me:8880/f10050/f10050/810
+#EXTINF:-1,HBO 2 HD
+http://a.srvbr.me:8880/f10050/f10050/819
+#EXTINF:-1,HBO 2 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5468
+#EXTINF:-1,HBO 2 HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1849
+#EXTINF:-1,HBO Family
+http://a.srvbr.me:8880/f10050/f10050/818
+#EXTINF:-1,HBO Family HD
+http://a.srvbr.me:8880/f10050/f10050/817
+#EXTINF:-1,HBO Family HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4140
+#EXTINF:-1,HBO Plus
+http://a.srvbr.me:8880/f10050/f10050/815
+#EXTINF:-1,HBO Plus HD
+http://a.srvbr.me:8880/f10050/f10050/813
+#EXTINF:-1,HBO Plus HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4139
+#EXTINF:-1,HBO Signature
+http://a.srvbr.me:8880/f10050/f10050/812
+#EXTINF:-1,HBO Signature HD
+http://a.srvbr.me:8880/f10050/f10050/811
+#EXTINF:-1,HBO Signature HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4138
+#EXTINF:-1,History
+http://a.srvbr.me:8880/f10050/f10050/726
+#EXTINF:-1,History HD
+http://a.srvbr.me:8880/f10050/f10050/809
+#EXTINF:-1,History Full HD
+http://a.srvbr.me:8880/f10050/f10050/5424
+#EXTINF:-1,History HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4137
+#EXTINF:-1,ID
+http://a.srvbr.me:8880/f10050/f10050/807
+#EXTINF:-1,ID HD
+http://a.srvbr.me:8880/f10050/f10050/806
+#EXTINF:-1,ID HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4155
+#EXTINF:-1,Lifetime
+http://a.srvbr.me:8880/f10050/f10050/805
+#EXTINF:-1,Lifetime HD
+http://a.srvbr.me:8880/f10050/f10050/1489
+#EXTINF:-1,Lifetime [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4136
+#EXTINF:-1,HBO MUNDI
+http://a.srvbr.me:8880/f10050/f10050/803
+#EXTINF:-1,HBO MUNDI HD
+http://a.srvbr.me:8880/f10050/f10050/1497
+#EXTINF:-1,HBO XTREME
+http://a.srvbr.me:8880/f10050/f10050/802
+#EXTINF:-1,Sony
+http://a.srvbr.me:8880/f10050/f10050/881
+#EXTINF:-1,Sony HD
+http://a.srvbr.me:8880/f10050/f10050/880
+#EXTINF:-1,Sony HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4115
+#EXTINF:-1,HBO Xtreme HD
+http://a.srvbr.me:8880/f10050/f10050/1487
+#EXTINF:-1,Maxup HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4134
+#EXTINF:-1,MegaPix
+http://a.srvbr.me:8880/f10050/f10050/799
+#EXTINF:-1,Megapix HD
+http://a.srvbr.me:8880/f10050/f10050/798
+#EXTINF:-1,Megapix HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1851
+#EXTINF:-1,MTV
+http://a.srvbr.me:8880/f10050/f10050/797
+#EXTINF:-1,MTV HD
+http://a.srvbr.me:8880/f10050/f10050/1485
+#EXTINF:-1,MTV HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4133
+#EXTINF:-1,Multishow
+http://a.srvbr.me:8880/f10050/f10050/796
+#EXTINF:-1,Multishow HD
+http://a.srvbr.me:8880/f10050/f10050/795
+#EXTINF:-1,Multishow HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4131
+#EXTINF:-1,Music Box Brasil
+http://a.srvbr.me:8880/f10050/f10050/794
+#EXTINF:-1,Music Box Brasil HD
+http://a.srvbr.me:8880/f10050/f10050/5304
+#EXTINF:-1,NatGeo Wild
+http://a.srvbr.me:8880/f10050/f10050/793
+#EXTINF:-1,NatGeo Wild HD
+http://a.srvbr.me:8880/f10050/f10050/702
+#EXTINF:-1,Nat Geo Wild Full HD
+http://a.srvbr.me:8880/f10050/f10050/5428
+#EXTINF:-1,Natgeo Kids
+http://a.srvbr.me:8880/f10050/f10050/5303
+#EXTINF:-1,Natgeo Kids HD
+http://a.srvbr.me:8880/f10050/f10050/5302
+#EXTINF:-1,National Geographic
+http://a.srvbr.me:8880/f10050/f10050/792
+#EXTINF:-1,National Geographic HD
+http://a.srvbr.me:8880/f10050/f10050/791
+#EXTINF:-1,National Geographic [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4129
+#EXTINF:-1,NHK
+http://a.srvbr.me:8880/f10050/f10050/789
+#EXTINF:-1,Nickelodeon
+http://a.srvbr.me:8880/f10050/f10050/787
+#EXTINF:-1,Nickelodeon HD
+http://a.srvbr.me:8880/f10050/f10050/1484
+#EXTINF:-1,Nicklodeon Full HD
+http://a.srvbr.me:8880/f10050/f10050/5426
+#EXTINF:-1,Nickelodeon HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4128
+#EXTINF:-1,Nick Jr.
+http://a.srvbr.me:8880/f10050/f10050/788
+#EXTINF:-1,Nick Jr. HD
+http://a.srvbr.me:8880/f10050/f10050/5301
+#EXTINF:-1,Nick JR Full HD
+http://a.srvbr.me:8880/f10050/f10050/5427
+#EXTINF:-1,OFF
+http://a.srvbr.me:8880/f10050/f10050/785
+#EXTINF:-1,OFF HD
+http://a.srvbr.me:8880/f10050/f10050/784
+#EXTINF:-1,OFF HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4125
+#EXTINF:-1,Paramount Channel
+http://a.srvbr.me:8880/f10050/f10050/783
+#EXTINF:-1,Paramount Channel HD
+http://a.srvbr.me:8880/f10050/f10050/782
+#EXTINF:-1,Paramount HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4124
+#EXTINF:-1,Premiere Clubes
+http://a.srvbr.me:8880/f10050/f10050/767
+#EXTINF:-1,Premiere Clubes HD
+http://a.srvbr.me:8880/f10050/f10050/780
+#EXTINF:-1,Premiere Clubes Full HD
+http://a.srvbr.me:8880/f10050/f10050/5455
+#EXTINF:-1,Premiere Clubes HD [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/1852
+#EXTINF:-1,PFC 2
+http://a.srvbr.me:8880/f10050/f10050/779
+#EXTINF:-1,PFC 2 HD
+http://a.srvbr.me:8880/f10050/f10050/778
+#EXTINF:-1,PFC 2 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5454
+#EXTINF:-1,PFC 2 [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/1853
+#EXTINF:-1,PFC 3
+http://a.srvbr.me:8880/f10050/f10050/777
+#EXTINF:-1,PFC 3 HD
+http://a.srvbr.me:8880/f10050/f10050/776
+#EXTINF:-1,PFC 3 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5453
+#EXTINF:-1,PFC 3 [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/1854
+#EXTINF:-1,PFC 4
+http://a.srvbr.me:8880/f10050/f10050/775
+#EXTINF:-1,PFC 4 HD
+http://a.srvbr.me:8880/f10050/f10050/774
+#EXTINF:-1,PFC 4 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5452
+#EXTINF:-1,PFC 4 [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/1855
+#EXTINF:-1,PFC 5
+http://a.srvbr.me:8880/f10050/f10050/773
+#EXTINF:-1,PFC 5 HD
+http://a.srvbr.me:8880/f10050/f10050/772
+#EXTINF:-1,PFC 5 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5451
+#EXTINF:-1,PFC 5 [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/1856
+#EXTINF:-1,PFC 6
+http://a.srvbr.me:8880/f10050/f10050/771
+#EXTINF:-1,PFC 6 HD
+http://a.srvbr.me:8880/f10050/f10050/4123
+#EXTINF:-1,PFC 6 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5450
+#EXTINF:-1,PFC 6 [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/5330
+#EXTINF:-1,PFC 7
+http://a.srvbr.me:8880/f10050/f10050/770
+#EXTINF:-1,PFC 7 HD
+http://a.srvbr.me:8880/f10050/f10050/4122
+#EXTINF:-1,PFC 7 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5449
+#EXTINF:-1,PFC 7 [ALTERNATIVO]
+http://a.srvbr.me:8880/f10050/f10050/5331
+#EXTINF:-1,PFC 8
+http://a.srvbr.me:8880/f10050/f10050/769
+#EXTINF:-1,PFC 9
+http://a.srvbr.me:8880/f10050/f10050/768
+#EXTINF:-1,Prime Box Brasil HD
+http://a.srvbr.me:8880/f10050/f10050/5300
+#EXTINF:-1,Record
+http://a.srvbr.me:8880/f10050/f10050/761
+#EXTINF:-1,Record HD
+http://a.srvbr.me:8880/f10050/f10050/763
+#EXTINF:-1,Record Full HD
+http://a.srvbr.me:8880/f10050/f10050/5466
+#EXTINF:-1,Globo Internacional
+http://a.srvbr.me:8880/f10050/f10050/604
+#EXTINF:-1,Record HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1857
+#EXTINF:-1,Record BA
+http://a.srvbr.me:8880/f10050/f10050/11072
+#EXTINF:-1,Record BA HD
+http://a.srvbr.me:8880/f10050/f10050/11071
+#EXTINF:-1,Record DF
+http://a.srvbr.me:8880/f10050/f10050/11069
+#EXTINF:-1,Record DF HD
+http://a.srvbr.me:8880/f10050/f10050/11068
+#EXTINF:-1,Record MG
+http://a.srvbr.me:8880/f10050/f10050/7565
+#EXTINF:-1,Record MG HD
+http://a.srvbr.me:8880/f10050/f10050/7566
+#EXTINF:-1,Record RJ
+http://a.srvbr.me:8880/f10050/f10050/7567
+#EXTINF:-1,Record RJ HD
+http://a.srvbr.me:8880/f10050/f10050/7568
+#EXTINF:-1,Record RS
+http://a.srvbr.me:8880/f10050/f10050/11066
+#EXTINF:-1,Record RS HD
+http://a.srvbr.me:8880/f10050/f10050/11065
+#EXTINF:-1,Record Internacional
+http://a.srvbr.me:8880/f10050/f10050/899
+#EXTINF:-1,Record News
+http://a.srvbr.me:8880/f10050/f10050/762
+#EXTINF:-1,RedeTV!
+http://a.srvbr.me:8880/f10050/f10050/759
+#EXTINF:-1,RedeTV! HD
+http://a.srvbr.me:8880/f10050/f10050/758
+#EXTINF:-1,RedeTV! HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4119
+#EXTINF:-1,Rede Vida
+http://a.srvbr.me:8880/f10050/f10050/757
+#EXTINF:-1,Rede Vida HD
+http://a.srvbr.me:8880/f10050/f10050/5653
+#EXTINF:-1,SBT
+http://a.srvbr.me:8880/f10050/f10050/756
+#EXTINF:-1,SBT HD
+http://a.srvbr.me:8880/f10050/f10050/755
+#EXTINF:-1,SBT Full HD
+http://a.srvbr.me:8880/f10050/f10050/5465
+#EXTINF:-1,SBT HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1858
+#EXTINF:-1,SBT SP Interior
+http://a.srvbr.me:8880/f10050/f10050/5297
+#EXTINF:-1,Smithsonian Channel
+http://a.srvbr.me:8880/f10050/f10050/11419
+#EXTINF:-1,Smithsonian Channel HD
+http://a.srvbr.me:8880/f10050/f10050/11420
+#EXTINF:-1,RTP Internacional
+http://a.srvbr.me:8880/f10050/f10050/574
+#EXTINF:-1,Space
+http://a.srvbr.me:8880/f10050/f10050/753
+#EXTINF:-1,Space HD
+http://a.srvbr.me:8880/f10050/f10050/752
+#EXTINF:-1,Space HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4114
+#EXTINF:-1,SporTV
+http://a.srvbr.me:8880/f10050/f10050/748
+#EXTINF:-1,SporTV HD
+http://a.srvbr.me:8880/f10050/f10050/749
+#EXTINF:-1,Sportv Full HD
+http://a.srvbr.me:8880/f10050/f10050/5438
+#EXTINF:-1,SporTV HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1859
+#EXTINF:-1,SporTV2
+http://a.srvbr.me:8880/f10050/f10050/747
+#EXTINF:-1,SporTV2 HD
+http://a.srvbr.me:8880/f10050/f10050/751
+#EXTINF:-1,Sportv 2 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5439
+#EXTINF:-1,SporTV2 HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1860
+#EXTINF:-1,SporTV3
+http://a.srvbr.me:8880/f10050/f10050/745
+#EXTINF:-1,SporTV3 HD
+http://a.srvbr.me:8880/f10050/f10050/750
+#EXTINF:-1,Sportv 3 Full HD
+http://a.srvbr.me:8880/f10050/f10050/5440
+#EXTINF:-1,SporTV3 HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1861
+#EXTINF:-1,Studio Universal
+http://a.srvbr.me:8880/f10050/f10050/743
+#EXTINF:-1,Studio Universal HD
+http://a.srvbr.me:8880/f10050/f10050/1480
+#EXTINF:-1,Studio Universal HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4113
+#EXTINF:-1,SundanceTV
+http://a.srvbr.me:8880/f10050/f10050/5296
+#EXTINF:-1,SundanceTV HD
+http://a.srvbr.me:8880/f10050/f10050/5295
+#EXTINF:-1,Syfy
+http://a.srvbr.me:8880/f10050/f10050/742
+#EXTINF:-1,Syfy HD
+http://a.srvbr.me:8880/f10050/f10050/1483
+#EXTINF:-1,SyFy HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4111
+#EXTINF:-1,TBS
+http://a.srvbr.me:8880/f10050/f10050/741
+#EXTINF:-1,TBS HD
+http://a.srvbr.me:8880/f10050/f10050/740
+#EXTINF:-1,TBS [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4110
+#EXTINF:-1,TCM
+http://a.srvbr.me:8880/f10050/f10050/734
+#EXTINF:-1,TCM HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4109
+#EXTINF:-1,TCV INTERNACIONAL
+http://a.srvbr.me:8880/f10050/f10050/983
+#EXTINF:-1,Telecine Action
+http://a.srvbr.me:8880/f10050/f10050/733
+#EXTINF:-1,Telecine Action HD
+http://a.srvbr.me:8880/f10050/f10050/739
+#EXTINF:-1,Telecine Action Full HD
+http://a.srvbr.me:8880/f10050/f10050/5464
+#EXTINF:-1,Telecine Action HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1862
+#EXTINF:-1,Telecine Cult
+http://a.srvbr.me:8880/f10050/f10050/732
+#EXTINF:-1,Telecine Cult HD
+http://a.srvbr.me:8880/f10050/f10050/1482
+#EXTINF:-1,Telecine Cult HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4108
+#EXTINF:-1,Telecine Fun
+http://a.srvbr.me:8880/f10050/f10050/731
+#EXTINF:-1,Telecine Fun HD
+http://a.srvbr.me:8880/f10050/f10050/738
+#EXTINF:-1,Telecine Fun Full HD
+http://a.srvbr.me:8880/f10050/f10050/5463
+#EXTINF:-1,Telecine Fun HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1863
+#EXTINF:-1,Telecine Pipoca
+http://a.srvbr.me:8880/f10050/f10050/730
+#EXTINF:-1,Telecine Pipoca HD
+http://a.srvbr.me:8880/f10050/f10050/737
+#EXTINF:-1,Telecine Pipoca Full HD
+http://a.srvbr.me:8880/f10050/f10050/5462
+#EXTINF:-1,Telecine Pipoca HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1864
+#EXTINF:-1,Telecine Premium
+http://a.srvbr.me:8880/f10050/f10050/729
+#EXTINF:-1,Telecine Premium HD
+http://a.srvbr.me:8880/f10050/f10050/736
+#EXTINF:-1,Telecine Premium Full HD
+http://a.srvbr.me:8880/f10050/f10050/5461
+#EXTINF:-1,Telecine Premium HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1865
+#EXTINF:-1,Telecine Touch
+http://a.srvbr.me:8880/f10050/f10050/728
+#EXTINF:-1,Telecine Touch HD
+http://a.srvbr.me:8880/f10050/f10050/735
+#EXTINF:-1,Telecine Touch Full HD
+http://a.srvbr.me:8880/f10050/f10050/5460
+#EXTINF:-1,Telecine Touch HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1866
+#EXTINF:-1,Terra Viva
+http://a.srvbr.me:8880/f10050/f10050/727
+#EXTINF:-1,TLC
+http://a.srvbr.me:8880/f10050/f10050/725
+#EXTINF:-1,TLC HD
+http://a.srvbr.me:8880/f10050/f10050/1481
+#EXTINF:-1,TLC HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1867
+#EXTINF:-1,TV Justica
+http://a.srvbr.me:8880/f10050/f10050/5293
+#EXTINF:-1,TNT
+http://a.srvbr.me:8880/f10050/f10050/724
+#EXTINF:-1,TNT HD
+http://a.srvbr.me:8880/f10050/f10050/723
+#EXTINF:-1,TNT HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/1868
+#EXTINF:-1,TNT Séries
+http://a.srvbr.me:8880/f10050/f10050/722
+#EXTINF:-1,TNT Séries HD
+http://a.srvbr.me:8880/f10050/f10050/721
+#EXTINF:-1,TNT Series HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4107
+#EXTINF:-1,PlayKids
+http://a.srvbr.me:8880/f10050/f10050/7563
+#EXTINF:-1,PlayKids HD
+http://a.srvbr.me:8880/f10050/f10050/7564
+#EXTINF:-1,Tooncast
+http://a.srvbr.me:8880/f10050/f10050/720
+#EXTINF:-1,Tooncast HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4106
+#EXTINF:-1,TruTV
+http://a.srvbr.me:8880/f10050/f10050/719
+#EXTINF:-1,TruTV HD
+http://a.srvbr.me:8880/f10050/f10050/5291
+#EXTINF:-1,TV Aparecida
+http://a.srvbr.me:8880/f10050/f10050/895
+#EXTINF:-1,TV Cultura
+http://a.srvbr.me:8880/f10050/f10050/5161
+#EXTINF:-1,TV Cultura HD
+http://a.srvbr.me:8880/f10050/f10050/5656
+#EXTINF:-1,TV Brasil
+http://a.srvbr.me:8880/f10050/f10050/717
+#EXTINF:-1,TV Câmara
+http://a.srvbr.me:8880/f10050/f10050/602
+#EXTINF:-1,TV Diário Fortaleza
+http://a.srvbr.me:8880/f10050/f10050/11063
+#EXTINF:-1,TV Diário Fortaleza HD
+http://a.srvbr.me:8880/f10050/f10050/11062
+#EXTINF:-1,TV Rá Tim Bum
+http://a.srvbr.me:8880/f10050/f10050/715
+#EXTINF:-1,TV Ra Tim Bum HD
+http://a.srvbr.me:8880/f10050/f10050/5292
+#EXTINF:-1,Universal Channel
+http://a.srvbr.me:8880/f10050/f10050/711
+#EXTINF:-1,Universal Channel HD
+http://a.srvbr.me:8880/f10050/f10050/710
+#EXTINF:-1,Universal Channel HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4103
+#EXTINF:-1,VH1
+http://a.srvbr.me:8880/f10050/f10050/5290
+#EXTINF:-1,VH1 HD
+http://a.srvbr.me:8880/f10050/f10050/1479
+#EXTINF:-1,VH1 HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4101
+#EXTINF:-1,VH1 Mega Hits
+http://a.srvbr.me:8880/f10050/f10050/709
+#EXTINF:-1,Viva
+http://a.srvbr.me:8880/f10050/f10050/708
+#EXTINF:-1,Viva HD
+http://a.srvbr.me:8880/f10050/f10050/707
+#EXTINF:-1,Viva Full HD
+http://a.srvbr.me:8880/f10050/f10050/5437
+#EXTINF:-1,Viva HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4100
+#EXTINF:-1,Warner Channel
+http://a.srvbr.me:8880/f10050/f10050/706
+#EXTINF:-1,Warner Channel HD
+http://a.srvbr.me:8880/f10050/f10050/705
+#EXTINF:-1,Warner Full HD
+http://a.srvbr.me:8880/f10050/f10050/5425
+#EXTINF:-1,Warner Channel HD [PLUS]
+http://a.srvbr.me:8880/f10050/f10050/4099
+#EXTINF:-1,Woohoo
+http://a.srvbr.me:8880/f10050/f10050/704
+#EXTINF:-1,Woohoo HD
+http://a.srvbr.me:8880/f10050/f10050/5657
+#EXTINF:-1,Anos 70
+http://a.srvbr.me:8880/f10050/f10050/932
+#EXTINF:-1,Anos 80
+http://a.srvbr.me:8880/f10050/f10050/931
+#EXTINF:-1,Anos 90
+http://a.srvbr.me:8880/f10050/f10050/930
+#EXTINF:-1,Bossa Nova
+http://a.srvbr.me:8880/f10050/f10050/929
+#EXTINF:-1,Eletrônica
+http://a.srvbr.me:8880/f10050/f10050/928
+#EXTINF:-1,Festa
+http://a.srvbr.me:8880/f10050/f10050/927
+#EXTINF:-1,Forró
+http://a.srvbr.me:8880/f10050/f10050/926
+#EXTINF:-1,Gospel
+http://a.srvbr.me:8880/f10050/f10050/925
+#EXTINF:-1,Hip Hop
+http://a.srvbr.me:8880/f10050/f10050/924
+#EXTINF:-1,Jazz
+http://a.srvbr.me:8880/f10050/f10050/923
+#EXTINF:-1,Kids
+http://a.srvbr.me:8880/f10050/f10050/922
+#EXTINF:-1,Lounge
+http://a.srvbr.me:8880/f10050/f10050/921
+#EXTINF:-1,MPB
+http://a.srvbr.me:8880/f10050/f10050/920
+#EXTINF:-1,Pagode
+http://a.srvbr.me:8880/f10050/f10050/919
+#EXTINF:-1,Pop Hits
+http://a.srvbr.me:8880/f10050/f10050/918
+#EXTINF:-1,Rock Clássico
+http://a.srvbr.me:8880/f10050/f10050/916
+#EXTINF:-1,Reggae
+http://a.srvbr.me:8880/f10050/f10050/917
+#EXTINF:-1,Românticas
+http://a.srvbr.me:8880/f10050/f10050/915
+#EXTINF:-1,Samba de Raiz
+http://a.srvbr.me:8880/f10050/f10050/914
+#EXTINF:-1,Sertanejo Universitário
+http://a.srvbr.me:8880/f10050/f10050/913
+#EXTINF:-1,Pica Pau
+http://a.srvbr.me:8880/f10050/f10050/5114
+#EXTINF:-1,Pokemon Sun and Moon 1º Temporada 2018
+http://a.srvbr.me:8880/f10050/f10050/5275
+#EXTINF:-1,Dragon Ball Super
+http://a.srvbr.me:8880/f10050/f10050/5277
+#EXTINF:-1,A.I.C.O. Incarnation 2018
+http://a.srvbr.me:8880/f10050/f10050/5276
+#EXTINF:-1,Tom & Jerry
+http://a.srvbr.me:8880/f10050/f10050/5115
