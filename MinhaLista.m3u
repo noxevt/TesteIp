@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,BR :  COMBAT
-http://randomserver.site:2086/crystal/12345/92717
+rtsp://192.168.100.7:5000/screen
 #EXTINF:-1,BR :  FOX SPORTS 2
 http://randomserver.site:2086/crystal/12345/92695
 #EXTINF:-1,BR : A & E
-http://randomserver.site:2086/crystal/12345/92727
+http://192.168.100.7:5000/screen
 #EXTINF:-1,BR : AMC
 http://randomserver.site:2086/crystal/12345/92726
 #EXTINF:-1,BR : ANIMAL PLANET
