@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,BR :  COMBAT
-rtsp://192.168.100.7:5000/screen
+tcp://192.168.100.7:5000
 #EXTINF:-1,BR :  FOX SPORTS 2
 http://randomserver.site:2086/crystal/12345/92695
 #EXTINF:-1,BR : A & E
