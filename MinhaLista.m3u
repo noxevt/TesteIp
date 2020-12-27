@@ -1,922 +1,202 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,BR :  COMBAT
-tcp://192.168.100.7:5000
-#EXTINF:-1,BR :  FOX SPORTS 2
-http://randomserver.site:2086/crystal/12345/92695
-#EXTINF:-1,BR : A & E
-http://192.168.100.7:5000/screen
-#EXTINF:-1,BR : AMC
-http://randomserver.site:2086/crystal/12345/92726
-#EXTINF:-1,BR : ANIMAL PLANET
-http://randomserver.site:2086/crystal/12345/92725
-#EXTINF:-1,BR : AXN
-http://randomserver.site:2086/crystal/12345/92724
-#EXTINF:-1,BR : BAND
-http://randomserver.site:2086/crystal/12345/92735
-#EXTINF:-1,BR : BAND NEWS
-http://randomserver.site:2086/crystal/12345/92723
-#EXTINF:-1,BR : BAND SP
-http://randomserver.site:2086/crystal/12345/92722
-#EXTINF:-1,BR : BOOMERANG
-http://randomserver.site:2086/crystal/12345/92720
-#EXTINF:-1,BR : COMEDY CENTRAL
-http://randomserver.site:2086/crystal/12345/92716
-#EXTINF:-1,BR : DISCOVERY CHANNEL
-http://randomserver.site:2086/crystal/12345/92715
-#EXTINF:-1,BR : DISCOVERY CHANNEL
-http://randomserver.site:2086/crystal/12345/92734
-#EXTINF:-1,BR : DISCOVERY CIVILIZATION
-http://randomserver.site:2086/crystal/12345/92714
-#EXTINF:-1,BR : DISCOVERY H&H
-http://randomserver.site:2086/crystal/12345/92713
-#EXTINF:-1,BR : DISCOVERY HOME & HEALTH
-http://randomserver.site:2086/crystal/12345/92712
-#EXTINF:-1,BR : DISCOVERY KIDS
-http://randomserver.site:2086/crystal/12345/92711
-#EXTINF:-1,BR : DISCOVERY THEATER
-http://randomserver.site:2086/crystal/12345/92710
-#EXTINF:-1,BR : DISCOVERY TLC
-http://randomserver.site:2086/crystal/12345/92709
-#EXTINF:-1,BR : DISCOVERY TURBO
-http://randomserver.site:2086/crystal/12345/92708
-#EXTINF:-1,BR : DISCOVERY WORLD
-http://randomserver.site:2086/crystal/12345/92707
-#EXTINF:-1,BR : DISNEY CHANNEL
-http://randomserver.site:2086/crystal/12345/92706
-#EXTINF:-1,BR : DISNEY JR
-http://randomserver.site:2086/crystal/12345/92705
-#EXTINF:-1,BR : DISNEY XD
-http://randomserver.site:2086/crystal/12345/92704
-#EXTINF:-1,BR : DISNEY XD
-http://randomserver.site:2086/crystal/12345/92733
-#EXTINF:-1,BR : ESPN
-http://randomserver.site:2086/crystal/12345/92702
-#EXTINF:-1,BR : ESPN 2
-http://randomserver.site:2086/crystal/12345/92736
-#EXTINF:-1,BR : ESPN BRASIL
-http://randomserver.site:2086/crystal/12345/92701
-#EXTINF:-1,BR : FOOD NETWORK
-http://randomserver.site:2086/crystal/12345/92700
-#EXTINF:-1,BR : FOX
-http://randomserver.site:2086/crystal/12345/92699
-#EXTINF:-1,BR : FOX LIFE
-http://randomserver.site:2086/crystal/12345/92698
-#EXTINF:-1,BR : FOX PREMIUM 1
-http://randomserver.site:2086/crystal/12345/92697
-#EXTINF:-1,BR : FOX SPORTS 1
-http://randomserver.site:2086/crystal/12345/92696
-#EXTINF:-1,BR : GLOBO BRASILIA
-http://randomserver.site:2086/crystal/12345/92692
-#EXTINF:-1,BR : GLOBO NEWS
-http://randomserver.site:2086/crystal/12345/92691
-#EXTINF:-1,BR : GLOBOSAT
-http://randomserver.site:2086/crystal/12345/92687
-#EXTINF:-1,BR : GLOOB
-http://randomserver.site:2086/crystal/12345/92686
-#EXTINF:-1,BR : GNT
-http://randomserver.site:2086/crystal/12345/92685
-#EXTINF:-1,BR : H2
-http://randomserver.site:2086/crystal/12345/92684
-#EXTINF:-1,BR : HBO
-http://randomserver.site:2086/crystal/12345/92680
-#EXTINF:-1,BR : HBO 2
-http://randomserver.site:2086/crystal/12345/92682
-#EXTINF:-1,BR : HBO FAMILY
-http://randomserver.site:2086/crystal/12345/92681
-#EXTINF:-1,BR : HBO PLUS
-http://randomserver.site:2086/crystal/12345/92679
-#EXTINF:-1,BR : HBO SIGNATURE
-http://randomserver.site:2086/crystal/12345/92678
-#EXTINF:-1,BR : HISTORY CHANNEL
-http://randomserver.site:2086/crystal/12345/92677
-#EXTINF:-1,BR : HISTORY CHANNEL
-http://randomserver.site:2086/crystal/12345/92732
-#EXTINF:-1,BR : INVESTIGACAO DISCOVERY
-http://randomserver.site:2086/crystal/12345/92676
-#EXTINF:-1,BR : LIFETIME
-http://randomserver.site:2086/crystal/12345/92675
-#EXTINF:-1,BR : MAX
-http://randomserver.site:2086/crystal/12345/92674
-#EXTINF:-1,BR : MAX PRIME
-http://randomserver.site:2086/crystal/12345/92673
-#EXTINF:-1,BR : MAX UP
-http://randomserver.site:2086/crystal/12345/92672
-#EXTINF:-1,BR : MEGAPIX
-http://randomserver.site:2086/crystal/12345/92671
-#EXTINF:-1,BR : MTV
-http://randomserver.site:2086/crystal/12345/92670
-#EXTINF:-1,BR : MULTISHOW
-http://randomserver.site:2086/crystal/12345/92669
-#EXTINF:-1,BR : NAT GEO
-http://randomserver.site:2086/crystal/12345/92668
-#EXTINF:-1,BR : NAT GEO KIDS
-http://randomserver.site:2086/crystal/12345/92667
-#EXTINF:-1,BR : NATGEO WILD
-http://randomserver.site:2086/crystal/12345/92666
-#EXTINF:-1,BR : NATIONAL GEOGRAPHIC
-http://randomserver.site:2086/crystal/12345/92665
-#EXTINF:-1,BR : NICK JR
-http://randomserver.site:2086/crystal/12345/92664
-#EXTINF:-1,BR : NICKELODEON
-http://randomserver.site:2086/crystal/12345/92663
-#EXTINF:-1,BR : OFF
-http://randomserver.site:2086/crystal/12345/92662
-#EXTINF:-1,BR : PARAMOUNT CHANNEL
-http://randomserver.site:2086/crystal/12345/92661
-#EXTINF:-1,BR : PREMIERE 2
-http://randomserver.site:2086/crystal/12345/92660
-#EXTINF:-1,BR : PREMIERE 3
-http://randomserver.site:2086/crystal/12345/92659
-#EXTINF:-1,BR : PREMIERE 4
-http://randomserver.site:2086/crystal/12345/92658
-#EXTINF:-1,BR : PREMIERE 5
-http://randomserver.site:2086/crystal/12345/92657
-#EXTINF:-1,BR : PREMIERE CLUBES
-http://randomserver.site:2086/crystal/12345/92656
-#EXTINF:-1,BR : RECORD
-http://randomserver.site:2086/crystal/12345/92655
-#EXTINF:-1,BR : RECORD SP
-http://randomserver.site:2086/crystal/12345/92654
-#EXTINF:-1,BR : REDE NEW
-http://randomserver.site:2086/crystal/12345/92653
-#EXTINF:-1,BR : REDE TV
-http://randomserver.site:2086/crystal/12345/92652
-#EXTINF:-1,BR : REDE VIDA
-http://randomserver.site:2086/crystal/12345/92651
-#EXTINF:-1,BR : SONY
-http://randomserver.site:2086/crystal/12345/92649
-#EXTINF:-1,BR : SPACE
-http://randomserver.site:2086/crystal/12345/92648
-#EXTINF:-1,BR : SPORTV
-http://randomserver.site:2086/crystal/12345/92645
-#EXTINF:-1,BR : SPORTV 1
-http://randomserver.site:2086/crystal/12345/92731
-#EXTINF:-1,BR : SPORTV 2
-http://randomserver.site:2086/crystal/12345/92647
-#EXTINF:-1,BR : SPORTV 3
-http://randomserver.site:2086/crystal/12345/92646
-#EXTINF:-1,BR : STUDIO UNIVERSAL
-http://randomserver.site:2086/crystal/12345/92644
-#EXTINF:-1,BR : SYFY
-http://randomserver.site:2086/crystal/12345/92643
-#EXTINF:-1,BR : TELECINE CULT
-http://randomserver.site:2086/crystal/12345/92641
-#EXTINF:-1,BR : TELECINE FUN
-http://randomserver.site:2086/crystal/12345/92640
-#EXTINF:-1,BR : TELECINE FUN
-http://randomserver.site:2086/crystal/12345/92729
-#EXTINF:-1,BR : TELECINE PIPOCA
-http://randomserver.site:2086/crystal/12345/92639
-#EXTINF:-1,BR : TELECINE PREMIUM
-http://randomserver.site:2086/crystal/12345/92638
-#EXTINF:-1,BR : TELECINE PREMIUM
-http://randomserver.site:2086/crystal/12345/92728
-#EXTINF:-1,BR : TELECINE TOUCH
-http://randomserver.site:2086/crystal/12345/92637
-#EXTINF:-1,BR : TNT
-http://randomserver.site:2086/crystal/12345/92635
-#EXTINF:-1,BR : TNT SERIES
-http://randomserver.site:2086/crystal/12345/92634
-#EXTINF:-1,BR : UNIVERSAL CHANNEL
-http://randomserver.site:2086/crystal/12345/92633
-#EXTINF:-1,BR : VIVA
-http://randomserver.site:2086/crystal/12345/92632
-#EXTINF:-1,BR : WARNER CHANNEL
-http://randomserver.site:2086/crystal/12345/92631
-#EXTINF:-1,BR : WOOHOO
-http://randomserver.site:2086/crystal/12345/92630
-
-#EXTINF:-1,BR :  COMBATE
-http://randomserver.site:2086/crystal/12345/92717
-#EXTINF:-1,BR :  FOX SPORTS 2
-http://randomserver.site:2086/crystal/12345/92695
-#EXTINF:-1,BR : A & E
-http://randomserver.site:2086/crystal/12345/92727
-#EXTINF:-1,BR : AMC
-http://randomserver.site:2086/crystal/12345/92726
-#EXTINF:-1,BR : ANIMAL PLANET
-http://randomserver.site:2086/crystal/12345/92725
-#EXTINF:-1,BR : AXN
-http://randomserver.site:2086/crystal/12345/92724
-#EXTINF:-1,BR : BAND
-http://randomserver.site:2086/crystal/12345/92735
-#EXTINF:-1,BR : BAND NEWS
-http://randomserver.site:2086/crystal/12345/92723
-#EXTINF:-1,BR : BAND SP
-http://randomserver.site:2086/crystal/12345/92722
-#EXTINF:-1,BR : BOOMERANG
-http://randomserver.site:2086/crystal/12345/92720
-#EXTINF:-1,BR : COMEDY CENTRAL
-http://randomserver.site:2086/crystal/12345/92716
-#EXTINF:-1,BR : DISCOVERY CHANNEL
-http://randomserver.site:2086/crystal/12345/92715
-#EXTINF:-1,BR : DISCOVERY CHANNEL
-http://randomserver.site:2086/crystal/12345/92734
-#EXTINF:-1,BR : DISCOVERY CIVILIZATION
-http://randomserver.site:2086/crystal/12345/92714
-#EXTINF:-1,BR : DISCOVERY H&H
-http://randomserver.site:2086/crystal/12345/92713
-#EXTINF:-1,BR : DISCOVERY HOME & HEALTH
-http://randomserver.site:2086/crystal/12345/92712
-#EXTINF:-1,BR : DISCOVERY KIDS
-http://randomserver.site:2086/crystal/12345/92711
-#EXTINF:-1,BR : DISCOVERY THEATER
-http://randomserver.site:2086/crystal/12345/92710
-#EXTINF:-1,BR : DISCOVERY TLC
-http://randomserver.site:2086/crystal/12345/92709
-#EXTINF:-1,BR : DISCOVERY TURBO
-http://randomserver.site:2086/crystal/12345/92708
-#EXTINF:-1,BR : DISCOVERY WORLD
-http://randomserver.site:2086/crystal/12345/92707
-#EXTINF:-1,BR : DISNEY CHANNEL
-http://randomserver.site:2086/crystal/12345/92706
-#EXTINF:-1,BR : DISNEY JR
-http://randomserver.site:2086/crystal/12345/92705
-#EXTINF:-1,BR : DISNEY XD
-http://randomserver.site:2086/crystal/12345/92704
-#EXTINF:-1,BR : DISNEY XD
-http://randomserver.site:2086/crystal/12345/92733
-#EXTINF:-1,BR : ESPN
-http://randomserver.site:2086/crystal/12345/92702
-#EXTINF:-1,BR : ESPN 2
-http://randomserver.site:2086/crystal/12345/92736
-#EXTINF:-1,BR : ESPN BRASIL
-http://randomserver.site:2086/crystal/12345/92701
-#EXTINF:-1,BR : FOOD NETWORK
-http://randomserver.site:2086/crystal/12345/92700
-#EXTINF:-1,BR : FOX
-http://randomserver.site:2086/crystal/12345/92699
-#EXTINF:-1,BR : FOX LIFE
-http://randomserver.site:2086/crystal/12345/92698
-#EXTINF:-1,BR : FOX PREMIUM 1
-http://randomserver.site:2086/crystal/12345/92697
-#EXTINF:-1,BR : FOX SPORTS 1
-http://randomserver.site:2086/crystal/12345/92696
-#EXTINF:-1,BR : GLOBO BRASILIA
-http://randomserver.site:2086/crystal/12345/92692
-#EXTINF:-1,BR : GLOBO NEWS
-http://randomserver.site:2086/crystal/12345/92691
-#EXTINF:-1,BR : GLOBOSAT
-http://randomserver.site:2086/crystal/12345/92687
-#EXTINF:-1,BR : GLOOB
-http://randomserver.site:2086/crystal/12345/92686
-#EXTINF:-1,BR : GNT
-http://randomserver.site:2086/crystal/12345/92685
-#EXTINF:-1,BR : H2
-http://randomserver.site:2086/crystal/12345/92684
-#EXTINF:-1,BR : HBO
-http://randomserver.site:2086/crystal/12345/92680
-#EXTINF:-1,BR : HBO 2
-http://randomserver.site:2086/crystal/12345/92682
-#EXTINF:-1,BR : HBO FAMILY
-http://randomserver.site:2086/crystal/12345/92681
-#EXTINF:-1,BR : HBO PLUS
-http://randomserver.site:2086/crystal/12345/92679
-#EXTINF:-1,BR : HBO SIGNATURE
-http://randomserver.site:2086/crystal/12345/92678
-#EXTINF:-1,BR : HISTORY CHANNEL
-http://randomserver.site:2086/crystal/12345/92677
-#EXTINF:-1,BR : HISTORY CHANNEL
-http://randomserver.site:2086/crystal/12345/92732
-#EXTINF:-1,BR : INVESTIGACAO DISCOVERY
-http://randomserver.site:2086/crystal/12345/92676
-#EXTINF:-1,BR : LIFETIME
-http://randomserver.site:2086/crystal/12345/92675
-#EXTINF:-1,BR : MAX
-http://randomserver.site:2086/crystal/12345/92674
-#EXTINF:-1,BR : MAX PRIME
-http://randomserver.site:2086/crystal/12345/92673
-#EXTINF:-1,BR : MAX UP
-http://randomserver.site:2086/crystal/12345/92672
-#EXTINF:-1,BR : MEGAPIX
-http://randomserver.site:2086/crystal/12345/92671
-#EXTINF:-1,BR : MTV
-http://randomserver.site:2086/crystal/12345/92670
-#EXTINF:-1,BR : MULTISHOW
-http://randomserver.site:2086/crystal/12345/92669
-#EXTINF:-1,BR : NAT GEO
-http://randomserver.site:2086/crystal/12345/92668
-#EXTINF:-1,BR : NAT GEO KIDS
-http://randomserver.site:2086/crystal/12345/92667
-#EXTINF:-1,BR : NATGEO WILD
-http://randomserver.site:2086/crystal/12345/92666
-#EXTINF:-1,BR : NATIONAL GEOGRAPHIC
-http://randomserver.site:2086/crystal/12345/92665
-#EXTINF:-1,BR : NICK JR
-http://randomserver.site:2086/crystal/12345/92664
-#EXTINF:-1,BR : NICKELODEON
-http://randomserver.site:2086/crystal/12345/92663
-#EXTINF:-1,BR : OFF
-http://randomserver.site:2086/crystal/12345/92662
-#EXTINF:-1,BR : PARAMOUNT CHANNEL
-http://randomserver.site:2086/crystal/12345/92661
-#EXTINF:-1,BR : PREMIERE 2
-http://randomserver.site:2086/crystal/12345/92660
-#EXTINF:-1,BR : PREMIERE 3
-http://randomserver.site:2086/crystal/12345/92659
-#EXTINF:-1,BR : PREMIERE 4
-http://randomserver.site:2086/crystal/12345/92658
-#EXTINF:-1,BR : PREMIERE 5
-http://randomserver.site:2086/crystal/12345/92657
-#EXTINF:-1,BR : PREMIERE CLUBES
-http://randomserver.site:2086/crystal/12345/92656
-#EXTINF:-1,BR : RECORD
-http://randomserver.site:2086/crystal/12345/92655
-#EXTINF:-1,BR : RECORD SP
-http://randomserver.site:2086/crystal/12345/92654
-#EXTINF:-1,BR : REDE NEW
-http://randomserver.site:2086/crystal/12345/92653
-#EXTINF:-1,BR : REDE TV
-http://randomserver.site:2086/crystal/12345/92652
-#EXTINF:-1,BR : REDE VIDA
-http://randomserver.site:2086/crystal/12345/92651
-#EXTINF:-1,BR : SONY
-http://randomserver.site:2086/crystal/12345/92649
-#EXTINF:-1,BR : SPACE
-http://randomserver.site:2086/crystal/12345/92648
-#EXTINF:-1,BR : SPORTV
-http://randomserver.site:2086/crystal/12345/92645
-#EXTINF:-1,BR : SPORTV 1
-http://randomserver.site:2086/crystal/12345/92731
-#EXTINF:-1,BR : SPORTV 2
-http://randomserver.site:2086/crystal/12345/92647
-#EXTINF:-1,BR : SPORTV 3
-http://randomserver.site:2086/crystal/12345/92646
-#EXTINF:-1,BR : STUDIO UNIVERSAL
-http://randomserver.site:2086/crystal/12345/92644
-#EXTINF:-1,BR : SYFY
-http://randomserver.site:2086/crystal/12345/92643
-#EXTINF:-1,BR : TELECINE CULT
-http://randomserver.site:2086/crystal/12345/92641
-#EXTINF:-1,BR : TELECINE FUN
-http://randomserver.site:2086/crystal/12345/92640
-#EXTINF:-1,BR : TELECINE FUN
-http://randomserver.site:2086/crystal/12345/92729
-#EXTINF:-1,BR : TELECINE PIPOCA
-http://randomserver.site:2086/crystal/12345/92639
-#EXTINF:-1,BR : TELECINE PREMIUM
-http://randomserver.site:2086/crystal/12345/92638
-#EXTINF:-1,BR : TELECINE PREMIUM
-http://randomserver.site:2086/crystal/12345/92728
-#EXTINF:-1,BR : TELECINE TOUCH
-http://randomserver.site:2086/crystal/12345/92637
-#EXTINF:-1,BR : TNT
-http://randomserver.site:2086/crystal/12345/92635
-#EXTINF:-1,BR : TNT SERIES
-http://randomserver.site:2086/crystal/12345/92634
-#EXTINF:-1,BR : UNIVERSAL CHANNEL
-http://randomserver.site:2086/crystal/12345/92633
-#EXTINF:-1,BR : VIVA
-http://randomserver.site:2086/crystal/12345/92632
-#EXTINF:-1,BR : WARNER CHANNEL
-http://randomserver.site:2086/crystal/12345/92631
-#EXTINF:-1,BR : WOOHOO
-http://randomserver.site:2086/crystal/12345/92630
-#EXTINF:-1,BR: A&E HD
-http://topiptv.net:5890/london/london123/76741
-#EXTINF:-1,BR: A Fazenda 11 HD
-http://topiptv.net:5890/london/london123/76742
-#EXTINF:-1,BR: AMC HD
-http://topiptv.net:5890/london/london123/76743
-#EXTINF:-1,BR: ANIMAL PLANET HD
-http://topiptv.net:5890/london/london123/76744
-#EXTINF:-1,BR: ARTE 1 HD
-http://topiptv.net:5890/london/london123/76745
-#EXTINF:-1,BR: AXN HD
-http://topiptv.net:5890/london/london123/76746
-#EXTINF:-1,BR: BABY TV HD
-http://topiptv.net:5890/london/london123/76747
-#EXTINF:-1,BR: BAND NEWS HD
-http://topiptv.net:5890/london/london123/76748
-#EXTINF:-1,BR: BAND RJ HD
-http://topiptv.net:5890/london/london123/76749
-#EXTINF:-1,BR: BAND SP HD
-http://topiptv.net:5890/london/london123/76750
-#EXTINF:-1,BR: BAND SPORTS HD
-http://topiptv.net:5890/london/london123/76751
-#EXTINF:-1,BR: BIS HD
-http://topiptv.net:5890/london/london123/76752
-#EXTINF:-1,BR: BOOMERANG HD
-http://topiptv.net:5890/london/london123/76753
-#EXTINF:-1,BR: CARTOON NETWORK HD
-http://topiptv.net:5890/london/london123/76754
-#EXTINF:-1,BR: CINEMAX HD
-http://topiptv.net:5890/london/london123/76755
-#EXTINF:-1,BR: COMBATE HD
-http://topiptv.net:5890/london/london123/76756
-#EXTINF:-1,BR: COMEDY CENTRAL HD
-http://topiptv.net:5890/london/london123/76757
-#EXTINF:-1,BR: CULTURA HD
-http://topiptv.net:5890/london/london123/76758
-#EXTINF:-1,BR: CURTA! HD
-http://topiptv.net:5890/london/london123/76759
-#EXTINF:-1,BR: DAZN BRASIL HD
-http://topiptv.net:5890/london/london123/76760
-#EXTINF:-1,BR: DISCOVERY CHANNEL HD
-http://topiptv.net:5890/london/london123/76761
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
-http://topiptv.net:5890/london/london123/76762
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH HD
-http://topiptv.net:5890/london/london123/76763
-#EXTINF:-1,BR: DISCOVERY KIDS HD
-http://topiptv.net:5890/london/london123/76764
-#EXTINF:-1,BR: DISCOVERY SCIENCE HD
-http://topiptv.net:5890/london/london123/76765
-#EXTINF:-1,BR: DISCOVERY THEATER HD
-http://topiptv.net:5890/london/london123/76766
-#EXTINF:-1,BR: DISCOVERY TLC HD
-http://topiptv.net:5890/london/london123/76767
-#EXTINF:-1,BR: DISCOVERY TURBO HD
-http://topiptv.net:5890/london/london123/76768
-#EXTINF:-1,BR: DISCOVERY WORLD HD
-http://topiptv.net:5890/london/london123/76769
-#EXTINF:-1,BR: DISNEY CHANNEL HD
-http://topiptv.net:5890/london/london123/76770
-#EXTINF:-1,BR: DISNEY JR HD
-http://topiptv.net:5890/london/london123/76771
-#EXTINF:-1,BR: DISNEY XD HD
-http://topiptv.net:5890/london/london123/76772
-#EXTINF:-1,BR: E! HD
-http://topiptv.net:5890/london/london123/76773
-#EXTINF:-1,BR: EI PLUS HD
-http://topiptv.net:5890/london/london123/76774
-#EXTINF:-1,BR: ESPN 2 HD
-http://topiptv.net:5890/london/london123/76775
-#EXTINF:-1,BR: ESPN BRASIL HD
-http://topiptv.net:5890/london/london123/76776
-#EXTINF:-1,BR: ESPN HD
-http://topiptv.net:5890/london/london123/76777
-#EXTINF:-1,BR: eSPORTS HD
-http://topiptv.net:5890/london/london123/76778
-#EXTINF:-1,BR: FISH TV HD
-http://topiptv.net:5890/london/london123/76779
-#EXTINF:-1,BR: FOOD NETWORK HD
-http://topiptv.net:5890/london/london123/76780
-#EXTINF:-1,BR: FOX HD
-http://topiptv.net:5890/london/london123/76781
-#EXTINF:-1,BR: FOX LIFE HD
-http://topiptv.net:5890/london/london123/76782
-#EXTINF:-1,BR: FOX PREMIUM 1 HD
-http://topiptv.net:5890/london/london123/76783
-#EXTINF:-1,BR: FOX PREMIUM 2 HD
-http://topiptv.net:5890/london/london123/76784
-#EXTINF:-1,BR: FOX SPORTS 2 HD
-http://topiptv.net:5890/london/london123/76785
-#EXTINF:-1,BR: FOX SPORTS HD
-http://topiptv.net:5890/london/london123/76786
-#EXTINF:-1,BR: FX HD
-http://topiptv.net:5890/london/london123/76787
-#EXTINF:-1,BR: GINX eSPORTS HD
-http://topiptv.net:5890/london/london123/76788
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS HD
-http://topiptv.net:5890/london/london123/76789
-#EXTINF:-1,BR: GLOBO MINAS HD
-http://topiptv.net:5890/london/london123/76790
-#EXTINF:-1,BR: GLOBO NEWS HD
-http://topiptv.net:5890/london/london123/76791
-#EXTINF:-1,BR: GLOBO NSC TV FLORIANOPOLIS HD
-http://topiptv.net:5890/london/london123/76792
-#EXTINF:-1,BR: GLOBO RBS POA HD
-http://topiptv.net:5890/london/london123/76793
-#EXTINF:-1,BR: GLOBO RJ HD
-http://topiptv.net:5890/london/london123/76794
-#EXTINF:-1,BR: GLOBO RPC TV HD
-http://topiptv.net:5890/london/london123/76795
-#EXTINF:-1,BR: GLOBOSAT HD
-http://topiptv.net:5890/london/london123/76796
-#EXTINF:-1,BR: GLOBO SP HD
-http://topiptv.net:5890/london/london123/76797
-#EXTINF:-1,BR: GLOBO TV RIO SUL HD
-http://topiptv.net:5890/london/london123/76798
-#EXTINF:-1,BR: GLOOB HD
-http://topiptv.net:5890/london/london123/76799
-#EXTINF:-1,BR: GNT HD
-http://topiptv.net:5890/london/london123/76800
-#EXTINF:-1,BR: H2 HD
-http://topiptv.net:5890/london/london123/76801
-#EXTINF:-1,BR: HBO 2 HD
-http://topiptv.net:5890/london/london123/76802
-#EXTINF:-1,BR: HBO FAMILY HD
-http://topiptv.net:5890/london/london123/76803
-#EXTINF:-1,BR: HBO HD
-http://topiptv.net:5890/london/london123/76804
-#EXTINF:-1,BR: HBO PLUS HD
-http://topiptv.net:5890/london/london123/76805
-#EXTINF:-1,BR: HBO SIGNATURE HD
-http://topiptv.net:5890/london/london123/76806
-#EXTINF:-1,BR: HISTORY CHANNEL HD
-http://topiptv.net:5890/london/london123/76807
-#EXTINF:-1,BR: ID-INVESTIGACAO DISCOVERY HD
-http://topiptv.net:5890/london/london123/76808
-#EXTINF:-1,BR: LIFETIME HD
-http://topiptv.net:5890/london/london123/76809
-#EXTINF:-1,BR: MAX HD
-http://topiptv.net:5890/london/london123/76810
-#EXTINF:-1,BR: MAX PRIME HD
-http://topiptv.net:5890/london/london123/76811
-#EXTINF:-1,BR: MAX UP HD
-http://topiptv.net:5890/london/london123/76812
-#EXTINF:-1,BR: MEGAPIX HD
-http://topiptv.net:5890/london/london123/76813
-#EXTINF:-1,BR: MTV HD
-http://topiptv.net:5890/london/london123/76814
-#EXTINF:-1,BR: MTV LIVE HD
-http://topiptv.net:5890/london/london123/76815
-#EXTINF:-1,BR: MULTISHOW HD
-http://topiptv.net:5890/london/london123/76816
-#EXTINF:-1,BR: NATGEO KIDS HD
-http://topiptv.net:5890/london/london123/76817
-#EXTINF:-1,BR: NATGEO WILD HD
-http://topiptv.net:5890/london/london123/76818
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC HD
-http://topiptv.net:5890/london/london123/76819
-#EXTINF:-1,BR: NBA HD
-http://topiptv.net:5890/london/london123/76820
-#EXTINF:-1,BR: NICKELODEON HD
-http://topiptv.net:5890/london/london123/76821
-#EXTINF:-1,BR: NICK JR HD
-http://topiptv.net:5890/london/london123/76822
-#EXTINF:-1,BR: OFF HD
-http://topiptv.net:5890/london/london123/76823
-#EXTINF:-1,BR: PARAMOUNT CHANNEL HD
-http://topiptv.net:5890/london/london123/76824
-#EXTINF:-1,BR: PLAYKIDS HD
-http://topiptv.net:5890/london/london123/76825
-#EXTINF:-1,BR: PREMIERE 2 HD
-http://topiptv.net:5890/london/london123/76826
-#EXTINF:-1,BR: PREMIERE 3 HD
-http://topiptv.net:5890/london/london123/76827
-#EXTINF:-1,BR: PREMIERE 4 HD
-http://topiptv.net:5890/london/london123/76828
-#EXTINF:-1,BR: PREMIERE 5 HD
-http://topiptv.net:5890/london/london123/76829
-#EXTINF:-1,BR: PREMIERE CLUBES HD
-http://topiptv.net:5890/london/london123/76830
-#EXTINF:-1,BR: RECORD CAMPINAS HD
-http://topiptv.net:5890/london/london123/76831
-#EXTINF:-1,BR: RECORD NEWS HD
-http://topiptv.net:5890/london/london123/76832
-#EXTINF:-1,BR: RECORD NORDESTE HD
-http://topiptv.net:5890/london/london123/76833
-#EXTINF:-1,BR: RECORD RJ HD
-http://topiptv.net:5890/london/london123/76834
-#EXTINF:-1,BR: RECORD SP HD
-http://topiptv.net:5890/london/london123/76835
-#EXTINF:-1,BR: REDE TV HD
-http://topiptv.net:5890/london/london123/76836
-#EXTINF:-1,BR: REDE VIDA HD
-http://topiptv.net:5890/london/london123/76837
-#EXTINF:-1,BR: SBT GOIAS HD
-http://topiptv.net:5890/london/london123/76838
-#EXTINF:-1,BR: SBT HD
-http://topiptv.net:5890/london/london123/76839
-#EXTINF:-1,BR: SBT NORDESTE HD
-http://topiptv.net:5890/london/london123/76840
-#EXTINF:-1,BR: SBT RJ HD
-http://topiptv.net:5890/london/london123/76841
-#EXTINF:-1,BR: SONY HD
-http://topiptv.net:5890/london/london123/76842
-#EXTINF:-1,BR: SPACE HD
-http://topiptv.net:5890/london/london123/76843
-#EXTINF:-1,BR: SPORTV 2 HD
-http://topiptv.net:5890/london/london123/76844
-#EXTINF:-1,BR: SPORTV 3 HD
-http://topiptv.net:5890/london/london123/76845
-#EXTINF:-1,BR: SPORTV HD
-http://topiptv.net:5890/london/london123/76846
-#EXTINF:-1,BR: STUDIO UNIVERSAL HD
-http://topiptv.net:5890/london/london123/76847
-#EXTINF:-1,BR: SYFY HD
-http://topiptv.net:5890/london/london123/76848
-#EXTINF:-1,BR: TELECINE ACTION HD
-http://topiptv.net:5890/london/london123/76849
-#EXTINF:-1,BR: TELECINE CULT HD
-http://topiptv.net:5890/london/london123/76850
-#EXTINF:-1,BR: TELECINE FUN HD
-http://topiptv.net:5890/london/london123/76851
-#EXTINF:-1,BR: TELECINE PIPOCA HD
-http://topiptv.net:5890/london/london123/76852
-#EXTINF:-1,BR: TELECINE PREMIUM HD
-http://topiptv.net:5890/london/london123/76853
-#EXTINF:-1,BR: TELECINE TOUCH HD
-http://topiptv.net:5890/london/london123/76854
-#EXTINF:-1,BR: TNT HD
-http://topiptv.net:5890/london/london123/76855
-#EXTINF:-1,BR: TNT SERIES HD
-http://topiptv.net:5890/london/london123/76856
-#EXTINF:-1,BR: TOONCAST HD
-http://topiptv.net:5890/london/london123/76857
-#EXTINF:-1,BR: TV APARECIDA HD
-http://topiptv.net:5890/london/london123/76858
-#EXTINF:-1,BR: TV CINE 1 HD
-http://topiptv.net:5890/london/london123/76859
-#EXTINF:-1,BR: TV CINE 2 HD
-http://topiptv.net:5890/london/london123/76860
-#EXTINF:-1,BR: TV CINE 3 HD
-http://topiptv.net:5890/london/london123/76861
-#EXTINF:-1,BR: TV CINE 4 HD
-http://topiptv.net:5890/london/london123/76862
-#EXTINF:-1,BR: UNIVERSAL CHANNEL HD
-http://topiptv.net:5890/london/london123/76863
-#EXTINF:-1,BR: VH1 HD
-http://topiptv.net:5890/london/london123/76864
-#EXTINF:-1,BR: VIVA HD
-http://topiptv.net:5890/london/london123/76865
-#EXTINF:-1,BR: WARNER CHANNEL HD
-http://topiptv.net:5890/london/london123/76866
-#EXTINF:-1,BR: WOOHOO HD
-http://topiptv.net:5890/london/london123/76867
-#EXTINF:-1,BR: ZOOMOO HD
-http://topiptv.net:5890/london/london123/76868
-#EXTINF:-1,BR:HBO XTREME HD
-http://topiptv.net:5890/london/london123/85037
-#EXTINF:-1,BR:HBO POP HD
-http://topiptv.net:5890/london/london123/85038
-#EXTINF:-1,BR:HBO MUNDI HD
-http://topiptv.net:5890/london/london123/85039
-#EXTINF:-1,BR: NASA TV
-http://topiptv.net:5890/london/london123/85040
-
-#EXTINF:-1,BR: A&E
-http://ingrid.ltd:25461/Melon3175/Melon7531/41359
-#EXTINF:-1,BR: AMC
-http://ingrid.ltd:25461/Melon3175/Melon7531/41358
-#EXTINF:-1,BR: Animal Planet
-http://ingrid.ltd:25461/Melon3175/Melon7531/41357
-#EXTINF:-1,BR: ARTE 1
-http://ingrid.ltd:25461/Melon3175/Melon7531/41356
-#EXTINF:-1,BR: AXN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41355
-#EXTINF:-1,BR: BABY TV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41354
-#EXTINF:-1,BR: BAND CAMPINAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41353
-#EXTINF:-1,BR: BAND NEWS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41352
-#EXTINF:-1,BR: BAND SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41351
-#EXTINF:-1,BR: BIS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41350
-#EXTINF:-1,BR: BOOMERANG
-http://ingrid.ltd:25461/Melon3175/Melon7531/41349
-#EXTINF:-1,BR: Canal Brasil
-http://ingrid.ltd:25461/Melon3175/Melon7531/41348
-#EXTINF:-1,BR: CANCAO NOVA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41347
-#EXTINF:-1,BR: CURTA!
-http://ingrid.ltd:25461/Melon3175/Melon7531/41341
-#EXTINF:-1,BR: COMBATE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41344
-#EXTINF:-1,BR: COMEDY CENTRAL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41343
-#EXTINF:-1,BR: CULTURA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41342
-#EXTINF:-1,BR: DISCOVERY CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41339
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION
-http://ingrid.ltd:25461/Melon3175/Melon7531/41338
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH
-http://ingrid.ltd:25461/Melon3175/Melon7531/41337
-#EXTINF:-1,BR: DISCOVERY KIDS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41336
-#EXTINF:-1,BR: DISCOVERY SCIENCE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41335
-#EXTINF:-1,BR: DISCOVERY THEATER
-http://ingrid.ltd:25461/Melon3175/Melon7531/41334
-#EXTINF:-1,BR: DISCOVERY TLC
-http://ingrid.ltd:25461/Melon3175/Melon7531/41333
-#EXTINF:-1,BR: DISCOVERY TURBO
-http://ingrid.ltd:25461/Melon3175/Melon7531/41332
-#EXTINF:-1,BR: DISCOVERY WORLD
-http://ingrid.ltd:25461/Melon3175/Melon7531/41331
-#EXTINF:-1,BR: DISNEY CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41330
-#EXTINF:-1,BR: DISNEY JNR
-http://ingrid.ltd:25461/Melon3175/Melon7531/41329
-#EXTINF:-1,BR: DISNEY XD
-http://ingrid.ltd:25461/Melon3175/Melon7531/41328
-#EXTINF:-1,BR: E!
-http://ingrid.ltd:25461/Melon3175/Melon7531/41327
-#EXTINF:-1,BR: ESPN BRASIL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41325
-#EXTINF:-1,BR: ESPN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41326
-#EXTINF:-1,BR: ESPN2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41324
-#EXTINF:-1,BR: FISH TV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41323
-#EXTINF:-1,BR: FOOD NETWORK
-http://ingrid.ltd:25461/Melon3175/Melon7531/41322
-#EXTINF:-1,BR: FOX
-http://ingrid.ltd:25461/Melon3175/Melon7531/41321
-#EXTINF:-1,BR: FOX LIFE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41320
-#EXTINF:-1,BR: FOX PREMIUM 1
-http://ingrid.ltd:25461/Melon3175/Melon7531/41319
-#EXTINF:-1,BR: FOX PREMIUM 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41318
-#EXTINF:-1,BR: FOX SPORTS 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41316
-#EXTINF:-1,BR: FOX SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41317
-#EXTINF:-1,BR: FUTURA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41315
-#EXTINF:-1,BR: FX
-http://ingrid.ltd:25461/Melon3175/Melon7531/41314
-#EXTINF:-1,BR: GLOBO AMAZONAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41313
-#EXTINF:-1,BR: GLOBO BAHIA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41312
-#EXTINF:-1,BR: GLOBO BR: ASILIA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41311
-#EXTINF:-1,BR: GLOBO CUIABA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41310
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41309
-#EXTINF:-1,BR: GLOBO EPTV RIBEIR
-http://ingrid.ltd:25461/Melon3175/Melon7531/41308
-#EXTINF:-1,BR: GLOBO EPTV SAO CARLOS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41307
-#EXTINF:-1,BR: GLOBO INTERNACIONAL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41306
-#EXTINF:-1,BR: GLOBO MINAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41305
-#EXTINF:-1,BR: GLOBO NEWS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41304
-#EXTINF:-1,BR: GLOBO NORDESTE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41303
-#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41302
-#EXTINF:-1,BR: GLOBO RIBEIR
-http://ingrid.ltd:25461/Melon3175/Melon7531/41301
-#EXTINF:-1,BR: GLOBO RIO GRANDE DO NORTE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41300
-#EXTINF:-1,BR: GLOBO RJ
-http://ingrid.ltd:25461/Melon3175/Melon7531/41299
-#EXTINF:-1,BR: GLOBO RPC TV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41298
-#EXTINF:-1,BR: GLOBOSAT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41291
-#EXTINF:-1,BR: GLOBO SP
-http://ingrid.ltd:25461/Melon3175/Melon7531/41297
-#EXTINF:-1,BR: GLOBO TV BELEM
-http://ingrid.ltd:25461/Melon3175/Melon7531/41296
-#EXTINF:-1,BR: GLOBO TV TEM SOROCABA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41295
-#EXTINF:-1,BR: GLOBO TV TRIBUNA SANTOS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41294
-#EXTINF:-1,BR: GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41293
-#EXTINF:-1,BR: GLOBO TV VERDES MARES FORTALEZA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41292
-#EXTINF:-1,BR: GLOOB
-http://ingrid.ltd:25461/Melon3175/Melon7531/41290
-#EXTINF:-1,BR: GNT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41289
-#EXTINF:-1,BR: HBO
-http://ingrid.ltd:25461/Melon3175/Melon7531/41287
-#EXTINF:-1,BR: HBO 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41286
-#EXTINF:-1,BR: HBO FAMILY
-http://ingrid.ltd:25461/Melon3175/Melon7531/41285
-#EXTINF:-1,BR: HBO PLUS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41284
-#EXTINF:-1,BR: HBO PLUS*E
-http://ingrid.ltd:25461/Melon3175/Melon7531/41283
-#EXTINF:-1,BR: HBO SIGNATURE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41282
-#EXTINF:-1,BR: HISTORY CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41281
-#EXTINF:-1,BR: H2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41288
-#EXTINF:-1,BR: INVESTIGA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41280
-#EXTINF:-1,BR: LIFETIME
-http://ingrid.ltd:25461/Melon3175/Melon7531/41279
-#EXTINF:-1,BR: MAX PRIME
-http://ingrid.ltd:25461/Melon3175/Melon7531/41278
-#EXTINF:-1,BR: MAX PRIME*E
-http://ingrid.ltd:25461/Melon3175/Melon7531/41277
-#EXTINF:-1,BR: MAX UP
-http://ingrid.ltd:25461/Melon3175/Melon7531/41276
-#EXTINF:-1,BR: MEGAPIX
-http://ingrid.ltd:25461/Melon3175/Melon7531/41275
-#EXTINF:-1,BR: MTV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41274
-#EXTINF:-1,BR: MTV LIVE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41273
-#EXTINF:-1,BR: MUSIC BOX BRAZIL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41272
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC
-http://ingrid.ltd:25461/Melon3175/Melon7531/41269
-#EXTINF:-1,BR: NAT GEO KIDS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41271
-#EXTINF:-1,BR: NATGEO WILD
-http://ingrid.ltd:25461/Melon3175/Melon7531/41270
-#EXTINF:-1,BR: NICKELODEON
-http://ingrid.ltd:25461/Melon3175/Melon7531/41267
-#EXTINF:-1,BR: NICK JR
-http://ingrid.ltd:25461/Melon3175/Melon7531/41268
-#EXTINF:-1,BR: OFF
-http://ingrid.ltd:25461/Melon3175/Melon7531/41266
-#EXTINF:-1,BR: PARAMOUNT CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41265
-#EXTINF:-1,BR: PREMIERE 1
-http://ingrid.ltd:25461/Melon3175/Melon7531/41264
-#EXTINF:-1,BR: PREMIERE 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41263
-#EXTINF:-1,BR: PREMIERE 3
-http://ingrid.ltd:25461/Melon3175/Melon7531/41262
-#EXTINF:-1,BR: PREMIERE 4
-http://ingrid.ltd:25461/Melon3175/Melon7531/41261
-#EXTINF:-1,BR: PREMIERE 5
-http://ingrid.ltd:25461/Melon3175/Melon7531/41260
-#EXTINF:-1,BR: PREMIERE 6
-http://ingrid.ltd:25461/Melon3175/Melon7531/41259
-#EXTINF:-1,BR: PREMIERE 7
-http://ingrid.ltd:25461/Melon3175/Melon7531/41258
-#EXTINF:-1,BR: PREMIERE 8
-http://ingrid.ltd:25461/Melon3175/Melon7531/41257
-#EXTINF:-1,BR: PREMIERE CLUBES
-http://ingrid.ltd:25461/Melon3175/Melon7531/41256
-#EXTINF:-1,BR: RECORD
-http://ingrid.ltd:25461/Melon3175/Melon7531/41255
-#EXTINF:-1,BR: RECORD AMAZONAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41254
-#EXTINF:-1,BR: RECORD CAMPINAS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41253
-#EXTINF:-1,BR: RECORD ESP. SANTO
-http://ingrid.ltd:25461/Melon3175/Melon7531/41252
-#EXTINF:-1,BR: RECORD MG
-http://ingrid.ltd:25461/Melon3175/Melon7531/41251
-#EXTINF:-1,BR: RECORD NEWS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41250
-#EXTINF:-1,BR: RECORD NORDESTE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41249
-#EXTINF:-1,BR: RECORD SP
-http://ingrid.ltd:25461/Melon3175/Melon7531/41248
-#EXTINF:-1,BR: REDE FAMILIA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41247
-#EXTINF:-1,BR: REDE TV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41246
-#EXTINF:-1,BR: REDE VIDA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41245
-#EXTINF:-1,BR: RIT TV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41244
-#EXTINF:-1,BR: SBT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41243
-#EXTINF:-1,BR: SBT TV CIDADE VERDE PIAUI
-http://ingrid.ltd:25461/Melon3175/Melon7531/41242
-#EXTINF:-1,BR: SONY
-http://ingrid.ltd:25461/Melon3175/Melon7531/41241
-#EXTINF:-1,BR: SPACE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41240
-#EXTINF:-1,BR: SPORTV
-http://ingrid.ltd:25461/Melon3175/Melon7531/41239
-#EXTINF:-1,BR: SPORTV 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41238
-#EXTINF:-1,BR: SPORTV 3
-http://ingrid.ltd:25461/Melon3175/Melon7531/41237
-#EXTINF:-1,BR: STUDIO UNIVERSAL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41236
-#EXTINF:-1,BR: SYFY
-http://ingrid.ltd:25461/Melon3175/Melon7531/41235
-#EXTINF:-1,BR: TBS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41234
-#EXTINF:-1,BR: TCM
-http://ingrid.ltd:25461/Melon3175/Melon7531/41233
-#EXTINF:-1,BR: TELECINE CULT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41231
-#EXTINF:-1,BR: TELECINE FUN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41230
-#EXTINF:-1,BR: TELECINE PIPOCA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41229
-#EXTINF:-1,BR: TELECINE PREMIUM
-http://ingrid.ltd:25461/Melon3175/Melon7531/41228
-#EXTINF:-1,BR: TELECINE TOUCH
-http://ingrid.ltd:25461/Melon3175/Melon7531/41227
-#EXTINF:-1,BR: TERRA VIVA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41226
-#EXTINF:-1,BR: TNT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41225
-#EXTINF:-1,BR: TNT S
-http://ingrid.ltd:25461/Melon3175/Melon7531/41224
-#EXTINF:-1,BR: TV BOA VONTADE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41222
-#EXTINF:-1,BR: TV ESCOLA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41221
-#EXTINF:-1,BR: TV GAZETA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41220
-#EXTINF:-1,BR: TV SENADO
-http://ingrid.ltd:25461/Melon3175/Melon7531/41219
-#EXTINF:-1,BR: UNIVERSAL CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41218
-#EXTINF:-1,BR: VH1
-http://ingrid.ltd:25461/Melon3175/Melon7531/41217
-#EXTINF:-1,BR: VIVA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41216
-#EXTINF:-1,BR: WARNER CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41215
-#EXTINF:-1,BR: WOOHOO
-http://ingrid.ltd:25461/Melon3175/Melon7531/41214
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/0L5tCLH.png" group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Music",1HD Music
+http://boxiptv.club:8080/vagner/123456/145516?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Undefined",98 Live (Belo Horizonte)
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://98live.com.br/assets/logo-98@2x.png" group-title="Undefined",98 Live (Belo Horizonte)
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A & E HD
+http://listamy.com:8080/stream12/stream12/318647?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
+http://201.1.151.74:2083/play/a04e/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/44092?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E
+http://tv.factoryiptv.com:80/Alana10/Alana10/37130?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E FullHD(H.265)
+http://boxiptv.club:8080/vagner/123456/145847?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/43993?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E HD
+http://boxiptv.club:8080/vagner/123456/145595?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&E SD
+http://boxiptv.club:8080/vagner/123456/145596?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO TV
+http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8&checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC
+http://201.1.151.74:2083/play/a05i/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC Fullhd (h.265)
+http://boxiptv.club:8080/vagner/123456/145848?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD
+http://boxiptv.club:8080/vagner/123456/145597?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/43994?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC HD
+http://listamy.com:8080/stream12/stream12/318646?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC SD
+http://boxiptv.club:8080/vagner/123456/145598?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 FullHD(H.265)
+http://boxiptv.club:8080/vagner/123456/145850?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 HD
+http://boxiptv.club:8080/vagner/123456/145599?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/44094?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
+http://tv.factoryiptv.com:80/Alana10/Alana10/37132?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/43996?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN HD
+http://listamy.com:8080/stream12/stream12/318644?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN HD
+http://boxiptv.club:8080/vagner/123456/145600?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN SD
+http://boxiptv.club:8080/vagner/123456/145601?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Hobby",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",All Sports
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/11300?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",All Sports DF
+http://boxiptv.club:8080/vagner/123456/145453?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet
+http://tv.factoryiptv.com:80/Alana10/Alana10/37128?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://tv.factoryiptv.com:80/Alana10/Alana10/38392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet FullHD
+http://boxiptv.club:8080/vagner/123456/145849?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/44039?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://boxiptv.club:8080/vagner/123456/145564?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://listamy.com:8080/stream12/stream12/318645?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Animal Planet1 SD
+http://boxiptv.club:8080/vagner/123456/145565?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Arte 1
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/44093?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Arte 1
+http://tv.factoryiptv.com:80/Alana10/Alana10/37133?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Arte 1 HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/43995?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND RJ HD
+http://boxiptv.club:8080/vagner/123456/145244?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND RJ HD
+http://nomorecable.xyz:80/1tvtesting/206047/102162?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND RJ SD
+http://boxiptv.club:8080/vagner/123456/145243?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SD
+http://boxiptv.club:8080/vagner/123456/145245?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SP HD
+http://nomorecable.xyz:80/1tvtesting/206047/102163?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
+http://nomorecable.xyz:80/1tvtesting/206047/102164?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD
+http://boxiptv.club:8080/vagner/123456/145455?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS
+http://201.1.151.74:2083/play/a043/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS
+http://tv.factoryiptv.com:80/Alana10/Alana10/37131?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS FHD
+http://tv.factoryiptv.com:80/Alana10/Alana10/38403?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS HD
+http://nomorecable.xyz:80/1tvtesting/206047/102165?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS SD
+http://boxiptv.club:8080/vagner/123456/145519?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG HD
+http://nomorecable.xyz:80/1tvtesting/206047/102166?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOOMERANG SD
+http://boxiptv.club:8080/vagner/123456/145374?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR A&E  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53707?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR AMC
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53708?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR Animal Planet  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53709?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR BABY TV  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR BAND SPORTS  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53715?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR BIS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR CARTOON NETWORK
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53720?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR COMBATE  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53723?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR COMEDY CENTRAL
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53724?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR CULTURA  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53725?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR DISCOVERY CHANNEL  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53728?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",BR DISCOVERY KIDS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53731?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR DISCOVERY THEATER  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53733?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR DISNEY CHANNEL  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53737?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR E!
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53740?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR ESPN BRASIL
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53742?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR FOX SPORTS 2  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53751?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR FUTURA  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53752?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR FX  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53753?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO AMAZONAS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53754?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO BRASILIA   P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53756?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO CUIABA
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53758?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO EPTV SAO CARLOS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53762?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO RIBEIR
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53768?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO RPC TV
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53771?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO SP  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53772?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBO TV VANGUARDA S.J DOS CAMPOS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53776?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR GLOBOSAT
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53778?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR HBO PLUS*E
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53786?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR INVESTIGA
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53789?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR LIFETIME  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53790?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR MEGAPIX  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53794?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR MTV  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53795?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR MTV LIVE  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53796?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR Multishow HD P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53798?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",BR NAT GEO KIDS  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53800?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR NATGEO WILD  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53801?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR NATIONAL GEOGRAPHIC  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53802?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR OFF
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53805?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR RECORD CAMPINAS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53818?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BR RECORD NEWS
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53821?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR RECORD NORDESTE  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53822?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR SBT
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53827?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BR SBT TV CIDADE VERDE PIAUI  P
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53828?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BR SPORTV 3
+http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/53833?checkedby:hlscat.com
